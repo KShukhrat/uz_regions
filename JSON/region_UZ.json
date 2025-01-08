@@ -1,0 +1,86 @@
+[
+  {
+    "id": 0,
+    "kod": 1703,
+    "viloyat": "Andijon viloyati",
+    "markazi": "Andijon sh."
+  },
+  {
+    "id": 1,
+    "kod": 1706,
+    "viloyat": "Buxoro viloyati",
+    "markazi": "Buxoro sh."
+  },
+  {
+    "id": 2,
+    "kod": 1708,
+    "viloyat": "Jizzax viloyati",
+    "markazi": "Jizzax sh."
+  },
+  {
+    "id": 3,
+    "kod": 1710,
+    "viloyat": "Qashqadaryo viloyati",
+    "markazi": "Qarshi sh."
+  },
+  {
+    "id": 4,
+    "kod": 1712,
+    "viloyat": "Navoiy viloyati",
+    "markazi": "Navoiy sh."
+  },
+  {
+    "id": 5,
+    "kod": 1714,
+    "viloyat": "Namangan viloyati",
+    "markazi": "Namangan sh."
+  },
+  {
+    "id": 6,
+    "kod": 1718,
+    "viloyat": "Samarqand viloyati",
+    "markazi": "Samarqand sh."
+  },
+  {
+    "id": 7,
+    "kod": 1722,
+    "viloyat": "Surxondaryo viloyati",
+    "markazi": "Termiz sh."
+  },
+  {
+    "id": 8,
+    "kod": 1724,
+    "viloyat": "Sirdaryo viloyati",
+    "markazi": "Guliston sh."
+  },
+  {
+    "id": 9,
+    "kod": 1726,
+    "viloyat": "Toshkent shahri",
+    "markazi": ""
+  },
+  {
+    "id": 10,
+    "kod": 1727,
+    "viloyat": "Toshkent viloyati",
+    "markazi": "Nurafshon sh."
+  },
+  {
+    "id": 11,
+    "kod": 1730,
+    "viloyat": "Farg‘ona viloyati",
+    "markazi": "Farg‘ona sh."
+  },
+  {
+    "id": 12,
+    "kod": 1733,
+    "viloyat": "Xorazm viloyati",
+    "markazi": "Urganch sh."
+  },
+  {
+    "id": 13,
+    "kod": 1735,
+    "viloyat": "Qoraqalpog‘iston Respublikasi",
+    "markazi": "Nukus sh."
+  }
+]

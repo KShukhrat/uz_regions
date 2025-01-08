@@ -1,0 +1,1068 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <id>0</id>
+    <tuman>Oltinko‘l tumani</tuman>
+    <parent_id>0</parent_id>
+  </row>
+  <row>
+    <id>1</id>
+    <tuman>Andijon tumani</tuman>
+    <parent_id>0</parent_id>
+  </row>
+  <row>
+    <id>2</id>
+    <tuman>Baliqchi tumani</tuman>
+    <parent_id>0</parent_id>
+  </row>
+  <row>
+    <id>3</id>
+    <tuman>Bo‘ston tumani</tuman>
+    <parent_id>0</parent_id>
+  </row>
+  <row>
+    <id>4</id>
+    <tuman>Buloqboshi tumani</tuman>
+    <parent_id>0</parent_id>
+  </row>
+  <row>
+    <id>5</id>
+    <tuman>Jalaquduq tumani</tuman>
+    <parent_id>0</parent_id>
+  </row>
+  <row>
+    <id>6</id>
+    <tuman>Izboskan tumani</tuman>
+    <parent_id>0</parent_id>
+  </row>
+  <row>
+    <id>7</id>
+    <tuman>Ulug‘nor tumani</tuman>
+    <parent_id>0</parent_id>
+  </row>
+  <row>
+    <id>8</id>
+    <tuman>Qo‘rg‘ontepa tumani</tuman>
+    <parent_id>0</parent_id>
+  </row>
+  <row>
+    <id>9</id>
+    <tuman>Asaka tumani</tuman>
+    <parent_id>0</parent_id>
+  </row>
+  <row>
+    <id>10</id>
+    <tuman>Marxamat tumani</tuman>
+    <parent_id>0</parent_id>
+  </row>
+  <row>
+    <id>11</id>
+    <tuman>Shaxrixon tumani</tuman>
+    <parent_id>0</parent_id>
+  </row>
+  <row>
+    <id>12</id>
+    <tuman>Paxtaobod tumani</tuman>
+    <parent_id>0</parent_id>
+  </row>
+  <row>
+    <id>13</id>
+    <tuman>Xo‘jaobod tumani</tuman>
+    <parent_id>0</parent_id>
+  </row>
+  <row>
+    <id>14</id>
+    <tuman>Olot tumani</tuman>
+    <parent_id>1</parent_id>
+  </row>
+  <row>
+    <id>15</id>
+    <tuman>Buxoro tumani</tuman>
+    <parent_id>1</parent_id>
+  </row>
+  <row>
+    <id>16</id>
+    <tuman>Vobkent tumani</tuman>
+    <parent_id>1</parent_id>
+  </row>
+  <row>
+    <id>17</id>
+    <tuman>G‘ijduvon tumani</tuman>
+    <parent_id>1</parent_id>
+  </row>
+  <row>
+    <id>18</id>
+    <tuman>Kogon tumani</tuman>
+    <parent_id>1</parent_id>
+  </row>
+  <row>
+    <id>19</id>
+    <tuman>Qorako‘l tumani</tuman>
+    <parent_id>1</parent_id>
+  </row>
+  <row>
+    <id>20</id>
+    <tuman>Qorovulbozor tumani</tuman>
+    <parent_id>1</parent_id>
+  </row>
+  <row>
+    <id>21</id>
+    <tuman>Peshku tumani</tuman>
+    <parent_id>1</parent_id>
+  </row>
+  <row>
+    <id>22</id>
+    <tuman>Romitan tumani</tuman>
+    <parent_id>1</parent_id>
+  </row>
+  <row>
+    <id>23</id>
+    <tuman>Jondor tumani</tuman>
+    <parent_id>1</parent_id>
+  </row>
+  <row>
+    <id>24</id>
+    <tuman>Shofirkon tumani</tuman>
+    <parent_id>1</parent_id>
+  </row>
+  <row>
+    <id>25</id>
+    <tuman>Arnasoy tumani</tuman>
+    <parent_id>2</parent_id>
+  </row>
+  <row>
+    <id>26</id>
+    <tuman>Baxmal tumani</tuman>
+    <parent_id>2</parent_id>
+  </row>
+  <row>
+    <id>27</id>
+    <tuman>G‘allaorol tumani</tuman>
+    <parent_id>2</parent_id>
+  </row>
+  <row>
+    <id>28</id>
+    <tuman>Sharof Rashidov tumani</tuman>
+    <parent_id>2</parent_id>
+  </row>
+  <row>
+    <id>29</id>
+    <tuman>Do‘stlik tumani</tuman>
+    <parent_id>2</parent_id>
+  </row>
+  <row>
+    <id>30</id>
+    <tuman>Zomin tumani</tuman>
+    <parent_id>2</parent_id>
+  </row>
+  <row>
+    <id>31</id>
+    <tuman>Zarbdor tumani</tuman>
+    <parent_id>2</parent_id>
+  </row>
+  <row>
+    <id>32</id>
+    <tuman>Mirzacho‘l tumani</tuman>
+    <parent_id>2</parent_id>
+  </row>
+  <row>
+    <id>33</id>
+    <tuman>Zafarobod tumani</tuman>
+    <parent_id>2</parent_id>
+  </row>
+  <row>
+    <id>34</id>
+    <tuman>Paxtakor tumani</tuman>
+    <parent_id>2</parent_id>
+  </row>
+  <row>
+    <id>35</id>
+    <tuman>Forish tumani</tuman>
+    <parent_id>2</parent_id>
+  </row>
+  <row>
+    <id>36</id>
+    <tuman>Yangiobod tumani</tuman>
+    <parent_id>2</parent_id>
+  </row>
+  <row>
+    <id>37</id>
+    <tuman>G‘uzor tumani</tuman>
+    <parent_id>3</parent_id>
+  </row>
+  <row>
+    <id>38</id>
+    <tuman>Dehqonobod tumani</tuman>
+    <parent_id>3</parent_id>
+  </row>
+  <row>
+    <id>39</id>
+    <tuman>Qamashi tumani</tuman>
+    <parent_id>3</parent_id>
+  </row>
+  <row>
+    <id>40</id>
+    <tuman>Qarshi tumani</tuman>
+    <parent_id>3</parent_id>
+  </row>
+  <row>
+    <id>41</id>
+    <tuman>Koson tumani</tuman>
+    <parent_id>3</parent_id>
+  </row>
+  <row>
+    <id>42</id>
+    <tuman>Kitob tumani</tuman>
+    <parent_id>3</parent_id>
+  </row>
+  <row>
+    <id>43</id>
+    <tuman>Mirishkor tumani</tuman>
+    <parent_id>3</parent_id>
+  </row>
+  <row>
+    <id>44</id>
+    <tuman>Muborak tumani</tuman>
+    <parent_id>3</parent_id>
+  </row>
+  <row>
+    <id>45</id>
+    <tuman>Nishon tumani</tuman>
+    <parent_id>3</parent_id>
+  </row>
+  <row>
+    <id>46</id>
+    <tuman>Kasbi tumani</tuman>
+    <parent_id>3</parent_id>
+  </row>
+  <row>
+    <id>47</id>
+    <tuman>Ko‘kdala tumani</tuman>
+    <parent_id>3</parent_id>
+  </row>
+  <row>
+    <id>48</id>
+    <tuman>Chiroqchi tumani</tuman>
+    <parent_id>3</parent_id>
+  </row>
+  <row>
+    <id>49</id>
+    <tuman>Shahrisabz tumani</tuman>
+    <parent_id>3</parent_id>
+  </row>
+  <row>
+    <id>50</id>
+    <tuman>Yakkabog‘ tumani</tuman>
+    <parent_id>3</parent_id>
+  </row>
+  <row>
+    <id>51</id>
+    <tuman>Konimex tumani</tuman>
+    <parent_id>4</parent_id>
+  </row>
+  <row>
+    <id>52</id>
+    <tuman>Qiziltepa tumani</tuman>
+    <parent_id>4</parent_id>
+  </row>
+  <row>
+    <id>53</id>
+    <tuman>Navbahor tumani</tuman>
+    <parent_id>4</parent_id>
+  </row>
+  <row>
+    <id>54</id>
+    <tuman>Karmana tumani</tuman>
+    <parent_id>4</parent_id>
+  </row>
+  <row>
+    <id>55</id>
+    <tuman>Nurota tumani</tuman>
+    <parent_id>4</parent_id>
+  </row>
+  <row>
+    <id>56</id>
+    <tuman>Tomdi tumani</tuman>
+    <parent_id>4</parent_id>
+  </row>
+  <row>
+    <id>57</id>
+    <tuman>Uchquduq tumani</tuman>
+    <parent_id>4</parent_id>
+  </row>
+  <row>
+    <id>58</id>
+    <tuman>Xatirchi tumani</tuman>
+    <parent_id>4</parent_id>
+  </row>
+  <row>
+    <id>59</id>
+    <tuman>Mingbuloq tumani</tuman>
+    <parent_id>5</parent_id>
+  </row>
+  <row>
+    <id>60</id>
+    <tuman>Kosonsoy tumani</tuman>
+    <parent_id>5</parent_id>
+  </row>
+  <row>
+    <id>61</id>
+    <tuman>Namangan tumani</tuman>
+    <parent_id>5</parent_id>
+  </row>
+  <row>
+    <id>62</id>
+    <tuman>Norin tumani</tuman>
+    <parent_id>5</parent_id>
+  </row>
+  <row>
+    <id>63</id>
+    <tuman>Pop tumani</tuman>
+    <parent_id>5</parent_id>
+  </row>
+  <row>
+    <id>64</id>
+    <tuman>To‘raqo‘rg‘on tumani</tuman>
+    <parent_id>5</parent_id>
+  </row>
+  <row>
+    <id>65</id>
+    <tuman>Uychi tumani</tuman>
+    <parent_id>5</parent_id>
+  </row>
+  <row>
+    <id>66</id>
+    <tuman>Uchqo‘rg‘on tumani</tuman>
+    <parent_id>5</parent_id>
+  </row>
+  <row>
+    <id>67</id>
+    <tuman>Chortoq tumani</tuman>
+    <parent_id>5</parent_id>
+  </row>
+  <row>
+    <id>68</id>
+    <tuman>Chust tumani</tuman>
+    <parent_id>5</parent_id>
+  </row>
+  <row>
+    <id>69</id>
+    <tuman>Yangiqo‘rg‘on tumani</tuman>
+    <parent_id>5</parent_id>
+  </row>
+  <row>
+    <id>70</id>
+    <tuman>Oqdaryo tumani</tuman>
+    <parent_id>6</parent_id>
+  </row>
+  <row>
+    <id>71</id>
+    <tuman>Bulung‘ur tumani</tuman>
+    <parent_id>6</parent_id>
+  </row>
+  <row>
+    <id>72</id>
+    <tuman>Jomboy tumani</tuman>
+    <parent_id>6</parent_id>
+  </row>
+  <row>
+    <id>73</id>
+    <tuman>Ishtixon tumani</tuman>
+    <parent_id>6</parent_id>
+  </row>
+  <row>
+    <id>74</id>
+    <tuman>Kattaqo‘rg‘on tumani</tuman>
+    <parent_id>6</parent_id>
+  </row>
+  <row>
+    <id>75</id>
+    <tuman>Qo‘shrabot tumani</tuman>
+    <parent_id>6</parent_id>
+  </row>
+  <row>
+    <id>76</id>
+    <tuman>Narpay tumani</tuman>
+    <parent_id>6</parent_id>
+  </row>
+  <row>
+    <id>77</id>
+    <tuman>Payariq tumani</tuman>
+    <parent_id>6</parent_id>
+  </row>
+  <row>
+    <id>78</id>
+    <tuman>Pastdarg‘om tumani</tuman>
+    <parent_id>6</parent_id>
+  </row>
+  <row>
+    <id>79</id>
+    <tuman>Paxtachi tumani</tuman>
+    <parent_id>6</parent_id>
+  </row>
+  <row>
+    <id>80</id>
+    <tuman>Samarqand tumani</tuman>
+    <parent_id>6</parent_id>
+  </row>
+  <row>
+    <id>81</id>
+    <tuman>Nurobod tumani</tuman>
+    <parent_id>6</parent_id>
+  </row>
+  <row>
+    <id>82</id>
+    <tuman>Urgut tumani</tuman>
+    <parent_id>6</parent_id>
+  </row>
+  <row>
+    <id>83</id>
+    <tuman>Tayloq tumani</tuman>
+    <parent_id>6</parent_id>
+  </row>
+  <row>
+    <id>84</id>
+    <tuman>Oltinsoy tumani</tuman>
+    <parent_id>7</parent_id>
+  </row>
+  <row>
+    <id>85</id>
+    <tuman>Angor tumani</tuman>
+    <parent_id>7</parent_id>
+  </row>
+  <row>
+    <id>86</id>
+    <tuman>Bandixon tumani</tuman>
+    <parent_id>7</parent_id>
+  </row>
+  <row>
+    <id>87</id>
+    <tuman>Boysun tumani</tuman>
+    <parent_id>7</parent_id>
+  </row>
+  <row>
+    <id>88</id>
+    <tuman>Muzrabot tumani</tuman>
+    <parent_id>7</parent_id>
+  </row>
+  <row>
+    <id>89</id>
+    <tuman>Denov tumani</tuman>
+    <parent_id>7</parent_id>
+  </row>
+  <row>
+    <id>90</id>
+    <tuman>Jarqo‘rg‘on tumani</tuman>
+    <parent_id>7</parent_id>
+  </row>
+  <row>
+    <id>91</id>
+    <tuman>Qumqo‘rg‘on tumani</tuman>
+    <parent_id>7</parent_id>
+  </row>
+  <row>
+    <id>92</id>
+    <tuman>Qiziriq tumani</tuman>
+    <parent_id>7</parent_id>
+  </row>
+  <row>
+    <id>93</id>
+    <tuman>Sariosiyo tumani</tuman>
+    <parent_id>7</parent_id>
+  </row>
+  <row>
+    <id>94</id>
+    <tuman>Termiz tumani</tuman>
+    <parent_id>7</parent_id>
+  </row>
+  <row>
+    <id>95</id>
+    <tuman>Uzun tumani</tuman>
+    <parent_id>7</parent_id>
+  </row>
+  <row>
+    <id>96</id>
+    <tuman>Sherobod tumani</tuman>
+    <parent_id>7</parent_id>
+  </row>
+  <row>
+    <id>97</id>
+    <tuman>Sho‘rchi tumani</tuman>
+    <parent_id>7</parent_id>
+  </row>
+  <row>
+    <id>98</id>
+    <tuman>Oqoltin tumani</tuman>
+    <parent_id>8</parent_id>
+  </row>
+  <row>
+    <id>99</id>
+    <tuman>Boyovut tumani</tuman>
+    <parent_id>8</parent_id>
+  </row>
+  <row>
+    <id>100</id>
+    <tuman>Sayxunobod tumani</tuman>
+    <parent_id>8</parent_id>
+  </row>
+  <row>
+    <id>101</id>
+    <tuman>Guliston tumani</tuman>
+    <parent_id>8</parent_id>
+  </row>
+  <row>
+    <id>102</id>
+    <tuman>Sardoba tumani</tuman>
+    <parent_id>8</parent_id>
+  </row>
+  <row>
+    <id>103</id>
+    <tuman>Mirzaobod tumani</tuman>
+    <parent_id>8</parent_id>
+  </row>
+  <row>
+    <id>104</id>
+    <tuman>Sirdaryo tumani</tuman>
+    <parent_id>8</parent_id>
+  </row>
+  <row>
+    <id>105</id>
+    <tuman>Xovos tumani</tuman>
+    <parent_id>8</parent_id>
+  </row>
+  <row>
+    <id>106</id>
+    <tuman>Uchtepa tumani</tuman>
+    <parent_id>9</parent_id>
+  </row>
+  <row>
+    <id>107</id>
+    <tuman>Bektemir tumani</tuman>
+    <parent_id>9</parent_id>
+  </row>
+  <row>
+    <id>108</id>
+    <tuman>Yunusobod tumani</tuman>
+    <parent_id>9</parent_id>
+  </row>
+  <row>
+    <id>109</id>
+    <tuman>Mirzo Ulug‘bek tumani</tuman>
+    <parent_id>9</parent_id>
+  </row>
+  <row>
+    <id>110</id>
+    <tuman>Mirobod tumani</tuman>
+    <parent_id>9</parent_id>
+  </row>
+  <row>
+    <id>111</id>
+    <tuman>Shayxontoxur tumani</tuman>
+    <parent_id>9</parent_id>
+  </row>
+  <row>
+    <id>112</id>
+    <tuman>Olmazor tumani</tuman>
+    <parent_id>9</parent_id>
+  </row>
+  <row>
+    <id>113</id>
+    <tuman>Sirg‘ali tumani</tuman>
+    <parent_id>9</parent_id>
+  </row>
+  <row>
+    <id>114</id>
+    <tuman>Yakkasaroy tumani</tuman>
+    <parent_id>9</parent_id>
+  </row>
+  <row>
+    <id>115</id>
+    <tuman>Yashnobod tumani</tuman>
+    <parent_id>9</parent_id>
+  </row>
+  <row>
+    <id>116</id>
+    <tuman>Yangihayot tumani</tuman>
+    <parent_id>9</parent_id>
+  </row>
+  <row>
+    <id>117</id>
+    <tuman>Chilonzor tumani</tuman>
+    <parent_id>9</parent_id>
+  </row>
+  <row>
+    <id>118</id>
+    <tuman>Oqqo‘rg‘on tumani</tuman>
+    <parent_id>10</parent_id>
+  </row>
+  <row>
+    <id>119</id>
+    <tuman>Ohangaron tumani</tuman>
+    <parent_id>10</parent_id>
+  </row>
+  <row>
+    <id>120</id>
+    <tuman>Bekobod tumani</tuman>
+    <parent_id>10</parent_id>
+  </row>
+  <row>
+    <id>121</id>
+    <tuman>Bo‘stonliq tumani</tuman>
+    <parent_id>10</parent_id>
+  </row>
+  <row>
+    <id>122</id>
+    <tuman>Bo‘ka tumani</tuman>
+    <parent_id>10</parent_id>
+  </row>
+  <row>
+    <id>123</id>
+    <tuman>Quyichirchiq tumani</tuman>
+    <parent_id>10</parent_id>
+  </row>
+  <row>
+    <id>124</id>
+    <tuman>Zangiota tumani</tuman>
+    <parent_id>10</parent_id>
+  </row>
+  <row>
+    <id>125</id>
+    <tuman>Yuqorichirchiq tumani</tuman>
+    <parent_id>10</parent_id>
+  </row>
+  <row>
+    <id>126</id>
+    <tuman>Qibray tumani</tuman>
+    <parent_id>10</parent_id>
+  </row>
+  <row>
+    <id>127</id>
+    <tuman>Parkent tumani</tuman>
+    <parent_id>10</parent_id>
+  </row>
+  <row>
+    <id>128</id>
+    <tuman>Pskent tumani</tuman>
+    <parent_id>10</parent_id>
+  </row>
+  <row>
+    <id>129</id>
+    <tuman>O‘rtachirchiq tumani</tuman>
+    <parent_id>10</parent_id>
+  </row>
+  <row>
+    <id>130</id>
+    <tuman>Chinoz tumani</tuman>
+    <parent_id>10</parent_id>
+  </row>
+  <row>
+    <id>131</id>
+    <tuman>Yangiyo‘l tumani</tuman>
+    <parent_id>10</parent_id>
+  </row>
+  <row>
+    <id>132</id>
+    <tuman>Toshkent tumani</tuman>
+    <parent_id>10</parent_id>
+  </row>
+  <row>
+    <id>133</id>
+    <tuman>Oltiariq tumani</tuman>
+    <parent_id>11</parent_id>
+  </row>
+  <row>
+    <id>134</id>
+    <tuman>Qo‘shtepa tumani</tuman>
+    <parent_id>11</parent_id>
+  </row>
+  <row>
+    <id>135</id>
+    <tuman>Bog‘dod tumani</tuman>
+    <parent_id>11</parent_id>
+  </row>
+  <row>
+    <id>136</id>
+    <tuman>Buvayda tumani</tuman>
+    <parent_id>11</parent_id>
+  </row>
+  <row>
+    <id>137</id>
+    <tuman>Beshariq tumani</tuman>
+    <parent_id>11</parent_id>
+  </row>
+  <row>
+    <id>138</id>
+    <tuman>Quva tumani</tuman>
+    <parent_id>11</parent_id>
+  </row>
+  <row>
+    <id>139</id>
+    <tuman>Uchko‘prik tumani</tuman>
+    <parent_id>11</parent_id>
+  </row>
+  <row>
+    <id>140</id>
+    <tuman>Rishton tumani</tuman>
+    <parent_id>11</parent_id>
+  </row>
+  <row>
+    <id>141</id>
+    <tuman>So‘x tumani</tuman>
+    <parent_id>11</parent_id>
+  </row>
+  <row>
+    <id>142</id>
+    <tuman>Toshloq tumani</tuman>
+    <parent_id>11</parent_id>
+  </row>
+  <row>
+    <id>143</id>
+    <tuman>O‘zbekiston tumani</tuman>
+    <parent_id>11</parent_id>
+  </row>
+  <row>
+    <id>144</id>
+    <tuman>Farg‘ona tumani</tuman>
+    <parent_id>11</parent_id>
+  </row>
+  <row>
+    <id>145</id>
+    <tuman>Dang‘ara tumani</tuman>
+    <parent_id>11</parent_id>
+  </row>
+  <row>
+    <id>146</id>
+    <tuman>Furqat tumani</tuman>
+    <parent_id>11</parent_id>
+  </row>
+  <row>
+    <id>147</id>
+    <tuman>Yozyovon tumani</tuman>
+    <parent_id>11</parent_id>
+  </row>
+  <row>
+    <id>148</id>
+    <tuman>Bog‘ot tumani</tuman>
+    <parent_id>12</parent_id>
+  </row>
+  <row>
+    <id>149</id>
+    <tuman>Gurlan tumani</tuman>
+    <parent_id>12</parent_id>
+  </row>
+  <row>
+    <id>150</id>
+    <tuman>Qo‘shko‘pir tumani</tuman>
+    <parent_id>12</parent_id>
+  </row>
+  <row>
+    <id>151</id>
+    <tuman>Urganch tumani</tuman>
+    <parent_id>12</parent_id>
+  </row>
+  <row>
+    <id>152</id>
+    <tuman>Xazorasp tumani</tuman>
+    <parent_id>12</parent_id>
+  </row>
+  <row>
+    <id>153</id>
+    <tuman>Tuproqqal’a tumani</tuman>
+    <parent_id>12</parent_id>
+  </row>
+  <row>
+    <id>154</id>
+    <tuman>Xonqa tumani</tuman>
+    <parent_id>12</parent_id>
+  </row>
+  <row>
+    <id>155</id>
+    <tuman>Xiva tumani</tuman>
+    <parent_id>12</parent_id>
+  </row>
+  <row>
+    <id>156</id>
+    <tuman>Shovot tumani</tuman>
+    <parent_id>12</parent_id>
+  </row>
+  <row>
+    <id>157</id>
+    <tuman>Yangiariq tumani</tuman>
+    <parent_id>12</parent_id>
+  </row>
+  <row>
+    <id>158</id>
+    <tuman>Yangibozor tumani</tuman>
+    <parent_id>12</parent_id>
+  </row>
+  <row>
+    <id>159</id>
+    <tuman>Amudaryo tumani</tuman>
+    <parent_id>13</parent_id>
+  </row>
+  <row>
+    <id>160</id>
+    <tuman>Beruniy tumani</tuman>
+    <parent_id>13</parent_id>
+  </row>
+  <row>
+    <id>161</id>
+    <tuman>Bo‘zatov tumani</tuman>
+    <parent_id>13</parent_id>
+  </row>
+  <row>
+    <id>162</id>
+    <tuman>Qorao‘zak tumani</tuman>
+    <parent_id>13</parent_id>
+  </row>
+  <row>
+    <id>163</id>
+    <tuman>Kegeyli tumani</tuman>
+    <parent_id>13</parent_id>
+  </row>
+  <row>
+    <id>164</id>
+    <tuman>Qo‘ng‘irot tumani</tuman>
+    <parent_id>13</parent_id>
+  </row>
+  <row>
+    <id>165</id>
+    <tuman>Qanliko‘l tumani</tuman>
+    <parent_id>13</parent_id>
+  </row>
+  <row>
+    <id>166</id>
+    <tuman>Mo‘ynoq tumani</tuman>
+    <parent_id>13</parent_id>
+  </row>
+  <row>
+    <id>167</id>
+    <tuman>Nukus tumani</tuman>
+    <parent_id>13</parent_id>
+  </row>
+  <row>
+    <id>168</id>
+    <tuman>Taxiatosh tumani</tuman>
+    <parent_id>13</parent_id>
+  </row>
+  <row>
+    <id>169</id>
+    <tuman>Taxtako‘pir tumani</tuman>
+    <parent_id>13</parent_id>
+  </row>
+  <row>
+    <id>170</id>
+    <tuman>To‘rtko‘l tumani</tuman>
+    <parent_id>13</parent_id>
+  </row>
+  <row>
+    <id>171</id>
+    <tuman>Xo‘jayli tumani</tuman>
+    <parent_id>13</parent_id>
+  </row>
+  <row>
+    <id>172</id>
+    <tuman>Chimboy tumani</tuman>
+    <parent_id>13</parent_id>
+  </row>
+  <row>
+    <id>173</id>
+    <tuman>Shumanay tumani</tuman>
+    <parent_id>13</parent_id>
+  </row>
+  <row>
+    <id>174</id>
+    <tuman>Ellikkala tumani</tuman>
+    <parent_id>13</parent_id>
+  </row>
+  <row>
+    <id>175</id>
+    <tuman>Kattaqo‘rg‘on shahar</tuman>
+    <parent_id>6</parent_id>
+  </row>
+  <row>
+    <id>176</id>
+    <tuman>Olmaliq shahar</tuman>
+    <parent_id>10</parent_id>
+  </row>
+  <row>
+    <id>177</id>
+    <tuman>Bekobod shahar</tuman>
+    <parent_id>10</parent_id>
+  </row>
+  <row>
+    <id>178</id>
+    <tuman>Yangi Namangan tumani</tuman>
+    <parent_id>5</parent_id>
+  </row>
+  <row>
+    <id>179</id>
+    <tuman>Samarqand shahar</tuman>
+    <parent_id>6</parent_id>
+  </row>
+  <row>
+    <id>180</id>
+    <tuman>Davlatobod tumani</tuman>
+    <parent_id>5</parent_id>
+  </row>
+  <row>
+    <id>181</id>
+    <tuman>Nurafshon shahar</tuman>
+    <parent_id>10</parent_id>
+  </row>
+  <row>
+    <id>182</id>
+    <tuman>Namangan shahar</tuman>
+    <parent_id>5</parent_id>
+  </row>
+  <row>
+    <id>183</id>
+    <tuman>Yangixayot rayoni</tuman>
+    <parent_id>9</parent_id>
+  </row>
+  <row>
+    <id>184</id>
+    <tuman>Guliston shahar</tuman>
+    <parent_id>8</parent_id>
+  </row>
+  <row>
+    <id>185</id>
+    <tuman>Jizzax shahar</tuman>
+    <parent_id>2</parent_id>
+  </row>
+  <row>
+    <id>186</id>
+    <tuman>Nukus shahar</tuman>
+    <parent_id>13</parent_id>
+  </row>
+  <row>
+    <id>187</id>
+    <tuman>Farg‘ona shahar</tuman>
+    <parent_id>11</parent_id>
+  </row>
+  <row>
+    <id>188</id>
+    <tuman>Qo‘qon shahar</tuman>
+    <parent_id>11</parent_id>
+  </row>
+  <row>
+    <id>189</id>
+    <tuman>Quvasoy shahar</tuman>
+    <parent_id>11</parent_id>
+  </row>
+  <row>
+    <id>190</id>
+    <tuman>Qarshi shahar</tuman>
+    <parent_id>3</parent_id>
+  </row>
+  <row>
+    <id>191</id>
+    <tuman>Buxoro shahar</tuman>
+    <parent_id>1</parent_id>
+  </row>
+  <row>
+    <id>192</id>
+    <tuman>Termiz shahar</tuman>
+    <parent_id>7</parent_id>
+  </row>
+  <row>
+    <id>193</id>
+    <tuman>Shahrisabz shahar</tuman>
+    <parent_id>3</parent_id>
+  </row>
+  <row>
+    <id>194</id>
+    <tuman>Yellikkala tumani</tuman>
+    <parent_id>13</parent_id>
+  </row>
+  <row>
+    <id>195</id>
+    <tuman>Andijon shahar</tuman>
+    <parent_id>0</parent_id>
+  </row>
+  <row>
+    <id>196</id>
+    <tuman>Angren shahar</tuman>
+    <parent_id>10</parent_id>
+  </row>
+  <row>
+    <id>197</id>
+    <tuman>Chirchiq shahar</tuman>
+    <parent_id>10</parent_id>
+  </row>
+  <row>
+    <id>198</id>
+    <tuman>Qiyichirchiq tumani</tuman>
+    <parent_id>10</parent_id>
+  </row>
+  <row>
+    <id>199</id>
+    <tuman>Urganch shahar</tuman>
+    <parent_id>12</parent_id>
+  </row>
+  <row>
+    <id>200</id>
+    <tuman>Tuproqqal'a tumani</tuman>
+    <parent_id>12</parent_id>
+  </row>
+  <row>
+    <id>201</id>
+    <tuman>Zarafshon shahar</tuman>
+    <parent_id>4</parent_id>
+  </row>
+  <row>
+    <id>202</id>
+    <tuman>Navoiy shahar</tuman>
+    <parent_id>4</parent_id>
+  </row>
+  <row>
+    <id>203</id>
+    <tuman>Kogon shahar</tuman>
+    <parent_id>1</parent_id>
+  </row>
+  <row>
+    <id>204</id>
+    <tuman>Uchkuduq shahar</tuman>
+    <parent_id>4</parent_id>
+  </row>
+  <row>
+    <id>205</id>
+    <tuman>Marg‘ilon shahar</tuman>
+    <parent_id>11</parent_id>
+  </row>
+  <row>
+    <id>206</id>
+    <tuman>Yangiyo‘l shahar</tuman>
+    <parent_id>10</parent_id>
+  </row>
+  <row>
+    <id>207</id>
+    <tuman>Xonobod shahar</tuman>
+    <parent_id>0</parent_id>
+  </row>
+  <row>
+    <id>208</id>
+    <tuman>Ohangaron shahar</tuman>
+    <parent_id>10</parent_id>
+  </row>
+  <row>
+    <id>209</id>
+    <tuman>Xiva shahar</tuman>
+    <parent_id>12</parent_id>
+  </row>
+  <row>
+    <id>210</id>
+    <tuman>Yangier shahar</tuman>
+    <parent_id>8</parent_id>
+  </row>
+  <row>
+    <id>211</id>
+    <tuman>G‘ozg‘on shahar</tuman>
+    <parent_id>4</parent_id>
+  </row>
+  <row>
+    <id>212</id>
+    <tuman>Shirin shahar</tuman>
+    <parent_id>8</parent_id>
+  </row>
+</data>

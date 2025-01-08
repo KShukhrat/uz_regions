@@ -1,0 +1,1707 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <id>0</id>
+    <kod>1703202</kod>
+    <tuman>Oltinko‘l tumani</tuman>
+    <markazi>Oltinko‘l a.p.</markazi>
+    <viloyat>1703</viloyat>
+    <parent_id>0</parent_id>
+  </row>
+  <row>
+    <id>1</id>
+    <kod>1703203</kod>
+    <tuman>Andijon tumani</tuman>
+    <markazi>Kuyganyor shaharchasi</markazi>
+    <viloyat>1703</viloyat>
+    <parent_id>0</parent_id>
+  </row>
+  <row>
+    <id>2</id>
+    <kod>1703206</kod>
+    <tuman>Baliqchi tumani</tuman>
+    <markazi>Baliqchi shaharchasi</markazi>
+    <viloyat>1703</viloyat>
+    <parent_id>0</parent_id>
+  </row>
+  <row>
+    <id>3</id>
+    <kod>1703209</kod>
+    <tuman>Bo‘ston tumani</tuman>
+    <markazi>Bo‘z shaharchasi</markazi>
+    <viloyat>1703</viloyat>
+    <parent_id>0</parent_id>
+  </row>
+  <row>
+    <id>4</id>
+    <kod>1703210</kod>
+    <tuman>Buloqboshi tumani</tuman>
+    <markazi>Buloqboshi shaharchasi</markazi>
+    <viloyat>1703</viloyat>
+    <parent_id>0</parent_id>
+  </row>
+  <row>
+    <id>5</id>
+    <kod>1703211</kod>
+    <tuman>Jalaquduq tumani</tuman>
+    <markazi>Jalaquduq sh.</markazi>
+    <viloyat>1703</viloyat>
+    <parent_id>0</parent_id>
+  </row>
+  <row>
+    <id>6</id>
+    <kod>1703214</kod>
+    <tuman>Izboskan tumani</tuman>
+    <markazi>Paytug sh.</markazi>
+    <viloyat>1703</viloyat>
+    <parent_id>0</parent_id>
+  </row>
+  <row>
+    <id>7</id>
+    <kod>1703217</kod>
+    <tuman>Ulug‘nor tumani</tuman>
+    <markazi>Oq oltin shaharchasi</markazi>
+    <viloyat>1703</viloyat>
+    <parent_id>0</parent_id>
+  </row>
+  <row>
+    <id>8</id>
+    <kod>1703220</kod>
+    <tuman>Qo‘rg‘ontepa tumani</tuman>
+    <markazi>Qo‘rg‘ontepa sh.</markazi>
+    <viloyat>1703</viloyat>
+    <parent_id>0</parent_id>
+  </row>
+  <row>
+    <id>9</id>
+    <kod>1703224</kod>
+    <tuman>Asaka tumani</tuman>
+    <markazi>Asaka sh.</markazi>
+    <viloyat>1703</viloyat>
+    <parent_id>0</parent_id>
+  </row>
+  <row>
+    <id>10</id>
+    <kod>1703227</kod>
+    <tuman>Marxamat tumani</tuman>
+    <markazi>Marxamat sh.</markazi>
+    <viloyat>1703</viloyat>
+    <parent_id>0</parent_id>
+  </row>
+  <row>
+    <id>11</id>
+    <kod>1703230</kod>
+    <tuman>Shaxrixon tumani</tuman>
+    <markazi>Shaxrixon sh.</markazi>
+    <viloyat>1703</viloyat>
+    <parent_id>0</parent_id>
+  </row>
+  <row>
+    <id>12</id>
+    <kod>1703232</kod>
+    <tuman>Paxtaobod tumani</tuman>
+    <markazi>Paxtaobod sh.</markazi>
+    <viloyat>1703</viloyat>
+    <parent_id>0</parent_id>
+  </row>
+  <row>
+    <id>13</id>
+    <kod>1703236</kod>
+    <tuman>Xo‘jaobod tumani</tuman>
+    <markazi>Xo‘jaobod sh.</markazi>
+    <viloyat>1703</viloyat>
+    <parent_id>0</parent_id>
+  </row>
+  <row>
+    <id>14</id>
+    <kod>1706204</kod>
+    <tuman>Olot tumani</tuman>
+    <markazi>Olot sh.</markazi>
+    <viloyat>1706</viloyat>
+    <parent_id>1</parent_id>
+  </row>
+  <row>
+    <id>15</id>
+    <kod>1706207</kod>
+    <tuman>Buxoro tumani</tuman>
+    <markazi>Gala Osiyo shaharchasi</markazi>
+    <viloyat>1706</viloyat>
+    <parent_id>1</parent_id>
+  </row>
+  <row>
+    <id>16</id>
+    <kod>1706212</kod>
+    <tuman>Vobkent tumani</tuman>
+    <markazi>Vobkent sh.</markazi>
+    <viloyat>1706</viloyat>
+    <parent_id>1</parent_id>
+  </row>
+  <row>
+    <id>17</id>
+    <kod>1706215</kod>
+    <tuman>G‘ijduvon tumani</tuman>
+    <markazi>G‘ijduvon sh.</markazi>
+    <viloyat>1706</viloyat>
+    <parent_id>1</parent_id>
+  </row>
+  <row>
+    <id>18</id>
+    <kod>1706219</kod>
+    <tuman>Kogon tumani</tuman>
+    <markazi>Kogon sh.</markazi>
+    <viloyat>1706</viloyat>
+    <parent_id>1</parent_id>
+  </row>
+  <row>
+    <id>19</id>
+    <kod>1706230</kod>
+    <tuman>Qorako‘l tumani</tuman>
+    <markazi>Qorako‘l sh.</markazi>
+    <viloyat>1706</viloyat>
+    <parent_id>1</parent_id>
+  </row>
+  <row>
+    <id>20</id>
+    <kod>1706232</kod>
+    <tuman>Qorovulbozor tumani</tuman>
+    <markazi>Qorovulbozor sh.</markazi>
+    <viloyat>1706</viloyat>
+    <parent_id>1</parent_id>
+  </row>
+  <row>
+    <id>21</id>
+    <kod>1706240</kod>
+    <tuman>Peshku tumani</tuman>
+    <markazi>Yangibozor shaharchasi</markazi>
+    <viloyat>1706</viloyat>
+    <parent_id>1</parent_id>
+  </row>
+  <row>
+    <id>22</id>
+    <kod>1706242</kod>
+    <tuman>Romitan tumani</tuman>
+    <markazi>Romitan sh.</markazi>
+    <viloyat>1706</viloyat>
+    <parent_id>1</parent_id>
+  </row>
+  <row>
+    <id>23</id>
+    <kod>1706246</kod>
+    <tuman>Jondor tumani</tuman>
+    <markazi>Jondor shaharchasi</markazi>
+    <viloyat>1706</viloyat>
+    <parent_id>1</parent_id>
+  </row>
+  <row>
+    <id>24</id>
+    <kod>1706258</kod>
+    <tuman>Shofirkon tumani</tuman>
+    <markazi>Shofirkon sh.</markazi>
+    <viloyat>1706</viloyat>
+    <parent_id>1</parent_id>
+  </row>
+  <row>
+    <id>25</id>
+    <kod>1708201</kod>
+    <tuman>Arnasoy tumani</tuman>
+    <markazi>G‘oliblar shaharchasi</markazi>
+    <viloyat>1708</viloyat>
+    <parent_id>2</parent_id>
+  </row>
+  <row>
+    <id>26</id>
+    <kod>1708204</kod>
+    <tuman>Baxmal tumani</tuman>
+    <markazi>O‘smat shaharchasi</markazi>
+    <viloyat>1708</viloyat>
+    <parent_id>2</parent_id>
+  </row>
+  <row>
+    <id>27</id>
+    <kod>1708209</kod>
+    <tuman>G‘allaorol tumani</tuman>
+    <markazi>G‘allaorol sh.</markazi>
+    <viloyat>1708</viloyat>
+    <parent_id>2</parent_id>
+  </row>
+  <row>
+    <id>28</id>
+    <kod>1708212</kod>
+    <tuman>Sharof Rashidov tumani</tuman>
+    <markazi>Uchtepa shaharchasi</markazi>
+    <viloyat>1708</viloyat>
+    <parent_id>2</parent_id>
+  </row>
+  <row>
+    <id>29</id>
+    <kod>1708215</kod>
+    <tuman>Do‘stlik tumani</tuman>
+    <markazi>Do‘stlik sh.</markazi>
+    <viloyat>1708</viloyat>
+    <parent_id>2</parent_id>
+  </row>
+  <row>
+    <id>30</id>
+    <kod>1708218</kod>
+    <tuman>Zomin tumani</tuman>
+    <markazi>Zomin shaharchasi</markazi>
+    <viloyat>1708</viloyat>
+    <parent_id>2</parent_id>
+  </row>
+  <row>
+    <id>31</id>
+    <kod>1708220</kod>
+    <tuman>Zarbdor tumani</tuman>
+    <markazi>Zarbdor shaharchasi</markazi>
+    <viloyat>1708</viloyat>
+    <parent_id>2</parent_id>
+  </row>
+  <row>
+    <id>32</id>
+    <kod>1708223</kod>
+    <tuman>Mirzacho‘l tumani</tuman>
+    <markazi>Gagarin sh.</markazi>
+    <viloyat>1708</viloyat>
+    <parent_id>2</parent_id>
+  </row>
+  <row>
+    <id>33</id>
+    <kod>1708225</kod>
+    <tuman>Zafarobod tumani</tuman>
+    <markazi>Zafarobod shaharchasi</markazi>
+    <viloyat>1708</viloyat>
+    <parent_id>2</parent_id>
+  </row>
+  <row>
+    <id>34</id>
+    <kod>1708228</kod>
+    <tuman>Paxtakor tumani</tuman>
+    <markazi>Paxtakor sh.</markazi>
+    <viloyat>1708</viloyat>
+    <parent_id>2</parent_id>
+  </row>
+  <row>
+    <id>35</id>
+    <kod>1708235</kod>
+    <tuman>Forish tumani</tuman>
+    <markazi>Bog‘don shaharchasi</markazi>
+    <viloyat>1708</viloyat>
+    <parent_id>2</parent_id>
+  </row>
+  <row>
+    <id>36</id>
+    <kod>1708237</kod>
+    <tuman>Yangiobod tumani</tuman>
+    <markazi>Balandchaqir a.p.</markazi>
+    <viloyat>1708</viloyat>
+    <parent_id>2</parent_id>
+  </row>
+  <row>
+    <id>37</id>
+    <kod>1710207</kod>
+    <tuman>G‘uzor tumani</tuman>
+    <markazi>G‘uzor sh.</markazi>
+    <viloyat>1710</viloyat>
+    <parent_id>3</parent_id>
+  </row>
+  <row>
+    <id>38</id>
+    <kod>1710212</kod>
+    <tuman>Dehqonobod tumani</tuman>
+    <markazi>Karashina shaharchasi</markazi>
+    <viloyat>1710</viloyat>
+    <parent_id>3</parent_id>
+  </row>
+  <row>
+    <id>39</id>
+    <kod>1710220</kod>
+    <tuman>Qamashi tumani</tuman>
+    <markazi>Qamashi sh.</markazi>
+    <viloyat>1710</viloyat>
+    <parent_id>3</parent_id>
+  </row>
+  <row>
+    <id>40</id>
+    <kod>1710224</kod>
+    <tuman>Qarshi tumani</tuman>
+    <markazi>Beshkent sh.</markazi>
+    <viloyat>1710</viloyat>
+    <parent_id>3</parent_id>
+  </row>
+  <row>
+    <id>41</id>
+    <kod>1710229</kod>
+    <tuman>Koson tumani</tuman>
+    <markazi>Koson sh.</markazi>
+    <viloyat>1710</viloyat>
+    <parent_id>3</parent_id>
+  </row>
+  <row>
+    <id>42</id>
+    <kod>1710232</kod>
+    <tuman>Kitob tumani</tuman>
+    <markazi>Kitob sh.</markazi>
+    <viloyat>1710</viloyat>
+    <parent_id>3</parent_id>
+  </row>
+  <row>
+    <id>43</id>
+    <kod>1710233</kod>
+    <tuman>Mirishkor tumani</tuman>
+    <markazi>Yangi Mirishkor shaharchasi</markazi>
+    <viloyat>1710</viloyat>
+    <parent_id>3</parent_id>
+  </row>
+  <row>
+    <id>44</id>
+    <kod>1710234</kod>
+    <tuman>Muborak tumani</tuman>
+    <markazi>Muborak sh.</markazi>
+    <viloyat>1710</viloyat>
+    <parent_id>3</parent_id>
+  </row>
+  <row>
+    <id>45</id>
+    <kod>1710235</kod>
+    <tuman>Nishon tumani</tuman>
+    <markazi>Yangi Nishon sh.</markazi>
+    <viloyat>1710</viloyat>
+    <parent_id>3</parent_id>
+  </row>
+  <row>
+    <id>46</id>
+    <kod>1710237</kod>
+    <tuman>Kasbi tumani</tuman>
+    <markazi>Mug‘lon shaharchasi</markazi>
+    <viloyat>1710</viloyat>
+    <parent_id>3</parent_id>
+  </row>
+  <row>
+    <id>47</id>
+    <kod>1710240</kod>
+    <tuman>Ko‘kdala tumani</tuman>
+    <markazi>Yettitom sh.</markazi>
+    <viloyat>1710</viloyat>
+    <parent_id>3</parent_id>
+  </row>
+  <row>
+    <id>48</id>
+    <kod>1710242</kod>
+    <tuman>Chiroqchi tumani</tuman>
+    <markazi>Chiroqchi sh.</markazi>
+    <viloyat>1710</viloyat>
+    <parent_id>3</parent_id>
+  </row>
+  <row>
+    <id>49</id>
+    <kod>1710245</kod>
+    <tuman>Shahrisabz tumani</tuman>
+    <markazi>Shahrisabz sh.</markazi>
+    <viloyat>1710</viloyat>
+    <parent_id>3</parent_id>
+  </row>
+  <row>
+    <id>50</id>
+    <kod>1710250</kod>
+    <tuman>Yakkabog‘ tumani</tuman>
+    <markazi>Yakkabog‘ sh.</markazi>
+    <viloyat>1710</viloyat>
+    <parent_id>3</parent_id>
+  </row>
+  <row>
+    <id>51</id>
+    <kod>1712211</kod>
+    <tuman>Konimex tumani</tuman>
+    <markazi>Konimex shaharchasi</markazi>
+    <viloyat>1712</viloyat>
+    <parent_id>4</parent_id>
+  </row>
+  <row>
+    <id>52</id>
+    <kod>1712216</kod>
+    <tuman>Qiziltepa tumani</tuman>
+    <markazi>Qiziltepa sh.</markazi>
+    <viloyat>1712</viloyat>
+    <parent_id>4</parent_id>
+  </row>
+  <row>
+    <id>53</id>
+    <kod>1712230</kod>
+    <tuman>Navbahor tumani</tuman>
+    <markazi>Beshrabot a.p.</markazi>
+    <viloyat>1712</viloyat>
+    <parent_id>4</parent_id>
+  </row>
+  <row>
+    <id>54</id>
+    <kod>1712234</kod>
+    <tuman>Karmana tumani</tuman>
+    <markazi>Karmana shaharchasi</markazi>
+    <viloyat>1712</viloyat>
+    <parent_id>4</parent_id>
+  </row>
+  <row>
+    <id>55</id>
+    <kod>1712238</kod>
+    <tuman>Nurota tumani</tuman>
+    <markazi>Nurota sh.</markazi>
+    <viloyat>1712</viloyat>
+    <parent_id>4</parent_id>
+  </row>
+  <row>
+    <id>56</id>
+    <kod>1712244</kod>
+    <tuman>Tomdi tumani</tuman>
+    <markazi>Tomdibuloq shaharchasi</markazi>
+    <viloyat>1712</viloyat>
+    <parent_id>4</parent_id>
+  </row>
+  <row>
+    <id>57</id>
+    <kod>1712248</kod>
+    <tuman>Uchquduq tumani</tuman>
+    <markazi>Uchquduq sh.</markazi>
+    <viloyat>1712</viloyat>
+    <parent_id>4</parent_id>
+  </row>
+  <row>
+    <id>58</id>
+    <kod>1712251</kod>
+    <tuman>Xatirchi tumani</tuman>
+    <markazi>Yangirabod sh.</markazi>
+    <viloyat>1712</viloyat>
+    <parent_id>4</parent_id>
+  </row>
+  <row>
+    <id>59</id>
+    <kod>1714204</kod>
+    <tuman>Mingbuloq tumani</tuman>
+    <markazi>Jo‘masho‘y shaharchasi</markazi>
+    <viloyat>1714</viloyat>
+    <parent_id>5</parent_id>
+  </row>
+  <row>
+    <id>60</id>
+    <kod>1714207</kod>
+    <tuman>Kosonsoy tumani</tuman>
+    <markazi>Kosonsoy sh.</markazi>
+    <viloyat>1714</viloyat>
+    <parent_id>5</parent_id>
+  </row>
+  <row>
+    <id>61</id>
+    <kod>1714212</kod>
+    <tuman>Namangan tumani</tuman>
+    <markazi>Toshbuloq shaharchasi</markazi>
+    <viloyat>1714</viloyat>
+    <parent_id>5</parent_id>
+  </row>
+  <row>
+    <id>62</id>
+    <kod>1714216</kod>
+    <tuman>Norin tumani</tuman>
+    <markazi>Xaqqulobod sh.</markazi>
+    <viloyat>1714</viloyat>
+    <parent_id>5</parent_id>
+  </row>
+  <row>
+    <id>63</id>
+    <kod>1714219</kod>
+    <tuman>Pop tumani</tuman>
+    <markazi>Pop sh.</markazi>
+    <viloyat>1714</viloyat>
+    <parent_id>5</parent_id>
+  </row>
+  <row>
+    <id>64</id>
+    <kod>1714224</kod>
+    <tuman>To‘raqo‘rg‘on tumani</tuman>
+    <markazi>To‘raqo‘rg‘on sh.</markazi>
+    <viloyat>1714</viloyat>
+    <parent_id>5</parent_id>
+  </row>
+  <row>
+    <id>65</id>
+    <kod>1714229</kod>
+    <tuman>Uychi tumani</tuman>
+    <markazi>Uychi shaharchasi</markazi>
+    <viloyat>1714</viloyat>
+    <parent_id>5</parent_id>
+  </row>
+  <row>
+    <id>66</id>
+    <kod>1714234</kod>
+    <tuman>Uchqo‘rg‘on tumani</tuman>
+    <markazi>Uchqo‘rg‘on sh.</markazi>
+    <viloyat>1714</viloyat>
+    <parent_id>5</parent_id>
+  </row>
+  <row>
+    <id>67</id>
+    <kod>1714236</kod>
+    <tuman>Chortoq tumani</tuman>
+    <markazi>Chortoq sh.</markazi>
+    <viloyat>1714</viloyat>
+    <parent_id>5</parent_id>
+  </row>
+  <row>
+    <id>68</id>
+    <kod>1714237</kod>
+    <tuman>Chust tumani</tuman>
+    <markazi>Chust sh.</markazi>
+    <viloyat>1714</viloyat>
+    <parent_id>5</parent_id>
+  </row>
+  <row>
+    <id>69</id>
+    <kod>1714242</kod>
+    <tuman>Yangiqo‘rg‘on tumani</tuman>
+    <markazi>Yangiqo‘rg‘on shaharchasi</markazi>
+    <viloyat>1714</viloyat>
+    <parent_id>5</parent_id>
+  </row>
+  <row>
+    <id>70</id>
+    <kod>1718203</kod>
+    <tuman>Oqdaryo tumani</tuman>
+    <markazi>Loyish shaharchasi</markazi>
+    <viloyat>1718</viloyat>
+    <parent_id>6</parent_id>
+  </row>
+  <row>
+    <id>71</id>
+    <kod>1718206</kod>
+    <tuman>Bulung‘ur tumani</tuman>
+    <markazi>Bulung‘ur sh.</markazi>
+    <viloyat>1718</viloyat>
+    <parent_id>6</parent_id>
+  </row>
+  <row>
+    <id>72</id>
+    <kod>1718209</kod>
+    <tuman>Jomboy tumani</tuman>
+    <markazi>Jomboy sh.</markazi>
+    <viloyat>1718</viloyat>
+    <parent_id>6</parent_id>
+  </row>
+  <row>
+    <id>73</id>
+    <kod>1718212</kod>
+    <tuman>Ishtixon tumani</tuman>
+    <markazi>Ishtixon sh.</markazi>
+    <viloyat>1718</viloyat>
+    <parent_id>6</parent_id>
+  </row>
+  <row>
+    <id>74</id>
+    <kod>1718215</kod>
+    <tuman>Kattaqo‘rg‘on tumani</tuman>
+    <markazi>Payshanba shaharchasi</markazi>
+    <viloyat>1718</viloyat>
+    <parent_id>6</parent_id>
+  </row>
+  <row>
+    <id>75</id>
+    <kod>1718216</kod>
+    <tuman>Qo‘shrabot tumani</tuman>
+    <markazi>Qo‘shrabot shaharchasi</markazi>
+    <viloyat>1718</viloyat>
+    <parent_id>6</parent_id>
+  </row>
+  <row>
+    <id>76</id>
+    <kod>1718218</kod>
+    <tuman>Narpay tumani</tuman>
+    <markazi>Oqtosh sh.</markazi>
+    <viloyat>1718</viloyat>
+    <parent_id>6</parent_id>
+  </row>
+  <row>
+    <id>77</id>
+    <kod>1718224</kod>
+    <tuman>Payariq tumani</tuman>
+    <markazi>Payariq sh.</markazi>
+    <viloyat>1718</viloyat>
+    <parent_id>6</parent_id>
+  </row>
+  <row>
+    <id>78</id>
+    <kod>1718227</kod>
+    <tuman>Pastdarg‘om tumani</tuman>
+    <markazi>Juma sh.</markazi>
+    <viloyat>1718</viloyat>
+    <parent_id>6</parent_id>
+  </row>
+  <row>
+    <id>79</id>
+    <kod>1718230</kod>
+    <tuman>Paxtachi tumani</tuman>
+    <markazi>Ziyovuddin shaharchasi</markazi>
+    <viloyat>1718</viloyat>
+    <parent_id>6</parent_id>
+  </row>
+  <row>
+    <id>80</id>
+    <kod>1718233</kod>
+    <tuman>Samarqand tumani</tuman>
+    <markazi>Gulobod shaharchasi</markazi>
+    <viloyat>1718</viloyat>
+    <parent_id>6</parent_id>
+  </row>
+  <row>
+    <id>81</id>
+    <kod>1718235</kod>
+    <tuman>Nurobod tumani</tuman>
+    <markazi>Nurobod sh.</markazi>
+    <viloyat>1718</viloyat>
+    <parent_id>6</parent_id>
+  </row>
+  <row>
+    <id>82</id>
+    <kod>1718236</kod>
+    <tuman>Urgut tumani</tuman>
+    <markazi>Urgut sh.</markazi>
+    <viloyat>1718</viloyat>
+    <parent_id>6</parent_id>
+  </row>
+  <row>
+    <id>83</id>
+    <kod>1718238</kod>
+    <tuman>Tayloq tumani</tuman>
+    <markazi>Toyloq shaharchasi</markazi>
+    <viloyat>1718</viloyat>
+    <parent_id>6</parent_id>
+  </row>
+  <row>
+    <id>84</id>
+    <kod>1722201</kod>
+    <tuman>Oltinsoy tumani</tuman>
+    <markazi>Qorliq shaharchasi</markazi>
+    <viloyat>1722</viloyat>
+    <parent_id>7</parent_id>
+  </row>
+  <row>
+    <id>85</id>
+    <kod>1722202</kod>
+    <tuman>Angor tumani</tuman>
+    <markazi>Angor shaharchasi</markazi>
+    <viloyat>1722</viloyat>
+    <parent_id>7</parent_id>
+  </row>
+  <row>
+    <id>86</id>
+    <kod>1722203</kod>
+    <tuman>Bandixon tumani</tuman>
+    <markazi>Bandixon shaharchasi</markazi>
+    <viloyat>1722</viloyat>
+    <parent_id>7</parent_id>
+  </row>
+  <row>
+    <id>87</id>
+    <kod>1722204</kod>
+    <tuman>Boysun tumani</tuman>
+    <markazi>Boysun sh.</markazi>
+    <viloyat>1722</viloyat>
+    <parent_id>7</parent_id>
+  </row>
+  <row>
+    <id>88</id>
+    <kod>1722207</kod>
+    <tuman>Muzrabot tumani</tuman>
+    <markazi>Xalqobod shaharchasi</markazi>
+    <viloyat>1722</viloyat>
+    <parent_id>7</parent_id>
+  </row>
+  <row>
+    <id>89</id>
+    <kod>1722210</kod>
+    <tuman>Denov tumani</tuman>
+    <markazi>Denov sh.</markazi>
+    <viloyat>1722</viloyat>
+    <parent_id>7</parent_id>
+  </row>
+  <row>
+    <id>90</id>
+    <kod>1722212</kod>
+    <tuman>Jarqo‘rg‘on tumani</tuman>
+    <markazi>Jarqo‘rg‘on sh.</markazi>
+    <viloyat>1722</viloyat>
+    <parent_id>7</parent_id>
+  </row>
+  <row>
+    <id>91</id>
+    <kod>1722214</kod>
+    <tuman>Qumqo‘rg‘on tumani</tuman>
+    <markazi>Qumqo‘rg‘on sh.</markazi>
+    <viloyat>1722</viloyat>
+    <parent_id>7</parent_id>
+  </row>
+  <row>
+    <id>92</id>
+    <kod>1722215</kod>
+    <tuman>Qiziriq tumani</tuman>
+    <markazi>Sariq shaharchasi</markazi>
+    <viloyat>1722</viloyat>
+    <parent_id>7</parent_id>
+  </row>
+  <row>
+    <id>93</id>
+    <kod>1722217</kod>
+    <tuman>Sariosiyo tumani</tuman>
+    <markazi>Sariosiyo shaharchasi</markazi>
+    <viloyat>1722</viloyat>
+    <parent_id>7</parent_id>
+  </row>
+  <row>
+    <id>94</id>
+    <kod>1722220</kod>
+    <tuman>Termiz tumani</tuman>
+    <markazi>Uchqizil shaharchasi</markazi>
+    <viloyat>1722</viloyat>
+    <parent_id>7</parent_id>
+  </row>
+  <row>
+    <id>95</id>
+    <kod>1722221</kod>
+    <tuman>Uzun tumani</tuman>
+    <markazi>Uzun shaharchasi</markazi>
+    <viloyat>1722</viloyat>
+    <parent_id>7</parent_id>
+  </row>
+  <row>
+    <id>96</id>
+    <kod>1722223</kod>
+    <tuman>Sherobod tumani</tuman>
+    <markazi>Sherobod sh.</markazi>
+    <viloyat>1722</viloyat>
+    <parent_id>7</parent_id>
+  </row>
+  <row>
+    <id>97</id>
+    <kod>1722226</kod>
+    <tuman>Sho‘rchi tumani</tuman>
+    <markazi>Sho‘rchi sh.</markazi>
+    <viloyat>1722</viloyat>
+    <parent_id>7</parent_id>
+  </row>
+  <row>
+    <id>98</id>
+    <kod>1724206</kod>
+    <tuman>Oqoltin tumani</tuman>
+    <markazi>Sardoba shaharchasi</markazi>
+    <viloyat>1724</viloyat>
+    <parent_id>8</parent_id>
+  </row>
+  <row>
+    <id>99</id>
+    <kod>1724212</kod>
+    <tuman>Boyovut tumani</tuman>
+    <markazi>Boyovut shaharchasi</markazi>
+    <viloyat>1724</viloyat>
+    <parent_id>8</parent_id>
+  </row>
+  <row>
+    <id>100</id>
+    <kod>1724216</kod>
+    <tuman>Sayxunobod tumani</tuman>
+    <markazi>Sayxun shaharcha</markazi>
+    <viloyat>1724</viloyat>
+    <parent_id>8</parent_id>
+  </row>
+  <row>
+    <id>101</id>
+    <kod>1724220</kod>
+    <tuman>Guliston tumani</tuman>
+    <markazi>Dehqonobod shaharchasi</markazi>
+    <viloyat>1724</viloyat>
+    <parent_id>8</parent_id>
+  </row>
+  <row>
+    <id>102</id>
+    <kod>1724226</kod>
+    <tuman>Sardoba tumani</tuman>
+    <markazi>Paxtaobod shaharchasi</markazi>
+    <viloyat>1724</viloyat>
+    <parent_id>8</parent_id>
+  </row>
+  <row>
+    <id>103</id>
+    <kod>1724228</kod>
+    <tuman>Mirzaobod tumani</tuman>
+    <markazi>Navro‘z shaharchasi</markazi>
+    <viloyat>1724</viloyat>
+    <parent_id>8</parent_id>
+  </row>
+  <row>
+    <id>104</id>
+    <kod>1724231</kod>
+    <tuman>Sirdaryo tumani</tuman>
+    <markazi>Sirdaryo sh.</markazi>
+    <viloyat>1724</viloyat>
+    <parent_id>8</parent_id>
+  </row>
+  <row>
+    <id>105</id>
+    <kod>1724235</kod>
+    <tuman>Xovos tumani</tuman>
+    <markazi>Xovos shaharchasi</markazi>
+    <viloyat>1724</viloyat>
+    <parent_id>8</parent_id>
+  </row>
+  <row>
+    <id>106</id>
+    <kod>1726262</kod>
+    <tuman>Uchtepa tumani</tuman>
+    <markazi/>
+    <viloyat>1726</viloyat>
+    <parent_id>9</parent_id>
+  </row>
+  <row>
+    <id>107</id>
+    <kod>1726264</kod>
+    <tuman>Bektemir tumani</tuman>
+    <markazi/>
+    <viloyat>1726</viloyat>
+    <parent_id>9</parent_id>
+  </row>
+  <row>
+    <id>108</id>
+    <kod>1726266</kod>
+    <tuman>Yunusobod tumani</tuman>
+    <markazi/>
+    <viloyat>1726</viloyat>
+    <parent_id>9</parent_id>
+  </row>
+  <row>
+    <id>109</id>
+    <kod>1726269</kod>
+    <tuman>Mirzo Ulug‘bek tumani</tuman>
+    <markazi/>
+    <viloyat>1726</viloyat>
+    <parent_id>9</parent_id>
+  </row>
+  <row>
+    <id>110</id>
+    <kod>1726273</kod>
+    <tuman>Mirobod tumani</tuman>
+    <markazi/>
+    <viloyat>1726</viloyat>
+    <parent_id>9</parent_id>
+  </row>
+  <row>
+    <id>111</id>
+    <kod>1726277</kod>
+    <tuman>Shayxontoxur tumani</tuman>
+    <markazi/>
+    <viloyat>1726</viloyat>
+    <parent_id>9</parent_id>
+  </row>
+  <row>
+    <id>112</id>
+    <kod>1726280</kod>
+    <tuman>Olmazor tumani</tuman>
+    <markazi/>
+    <viloyat>1726</viloyat>
+    <parent_id>9</parent_id>
+  </row>
+  <row>
+    <id>113</id>
+    <kod>1726283</kod>
+    <tuman>Sirg‘ali tumani</tuman>
+    <markazi/>
+    <viloyat>1726</viloyat>
+    <parent_id>9</parent_id>
+  </row>
+  <row>
+    <id>114</id>
+    <kod>1726287</kod>
+    <tuman>Yakkasaroy tumani</tuman>
+    <markazi/>
+    <viloyat>1726</viloyat>
+    <parent_id>9</parent_id>
+  </row>
+  <row>
+    <id>115</id>
+    <kod>1726290</kod>
+    <tuman>Yashnobod tumani</tuman>
+    <markazi/>
+    <viloyat>1726</viloyat>
+    <parent_id>9</parent_id>
+  </row>
+  <row>
+    <id>116</id>
+    <kod>1726292</kod>
+    <tuman>Yangihayot tumani</tuman>
+    <markazi/>
+    <viloyat>1726</viloyat>
+    <parent_id>9</parent_id>
+  </row>
+  <row>
+    <id>117</id>
+    <kod>1726294</kod>
+    <tuman>Chilonzor tumani</tuman>
+    <markazi/>
+    <viloyat>1726</viloyat>
+    <parent_id>9</parent_id>
+  </row>
+  <row>
+    <id>118</id>
+    <kod>1727206</kod>
+    <tuman>Oqqo‘rg‘on tumani</tuman>
+    <markazi>Oqqo‘rg‘on sh.</markazi>
+    <viloyat>1727</viloyat>
+    <parent_id>10</parent_id>
+  </row>
+  <row>
+    <id>119</id>
+    <kod>1727212</kod>
+    <tuman>Ohangaron tumani</tuman>
+    <markazi>Ohangaron sh.</markazi>
+    <viloyat>1727</viloyat>
+    <parent_id>10</parent_id>
+  </row>
+  <row>
+    <id>120</id>
+    <kod>1727220</kod>
+    <tuman>Bekobod tumani</tuman>
+    <markazi>Zafar shaharchasi</markazi>
+    <viloyat>1727</viloyat>
+    <parent_id>10</parent_id>
+  </row>
+  <row>
+    <id>121</id>
+    <kod>1727224</kod>
+    <tuman>Bo‘stonliq tumani</tuman>
+    <markazi>G‘azalkent sh.</markazi>
+    <viloyat>1727</viloyat>
+    <parent_id>10</parent_id>
+  </row>
+  <row>
+    <id>122</id>
+    <kod>1727228</kod>
+    <tuman>Bo‘ka tumani</tuman>
+    <markazi>Bo‘ka sh.</markazi>
+    <viloyat>1727</viloyat>
+    <parent_id>10</parent_id>
+  </row>
+  <row>
+    <id>123</id>
+    <kod>1727233</kod>
+    <tuman>Quyichirchiq tumani</tuman>
+    <markazi>Do‘stobod sh.</markazi>
+    <viloyat>1727</viloyat>
+    <parent_id>10</parent_id>
+  </row>
+  <row>
+    <id>124</id>
+    <kod>1727237</kod>
+    <tuman>Zangiota tumani</tuman>
+    <markazi>Eshonguzar shaharchasi</markazi>
+    <viloyat>1727</viloyat>
+    <parent_id>10</parent_id>
+  </row>
+  <row>
+    <id>125</id>
+    <kod>1727239</kod>
+    <tuman>Yuqorichirchiq tumani</tuman>
+    <markazi>Yangibozor shaharchasi</markazi>
+    <viloyat>1727</viloyat>
+    <parent_id>10</parent_id>
+  </row>
+  <row>
+    <id>126</id>
+    <kod>1727248</kod>
+    <tuman>Qibray tumani</tuman>
+    <markazi>Qibray shaharchasi</markazi>
+    <viloyat>1727</viloyat>
+    <parent_id>10</parent_id>
+  </row>
+  <row>
+    <id>127</id>
+    <kod>1727249</kod>
+    <tuman>Parkent tumani</tuman>
+    <markazi>Parkent sh.</markazi>
+    <viloyat>1727</viloyat>
+    <parent_id>10</parent_id>
+  </row>
+  <row>
+    <id>128</id>
+    <kod>1727250</kod>
+    <tuman>Pskent tumani</tuman>
+    <markazi>Pskent sh.</markazi>
+    <viloyat>1727</viloyat>
+    <parent_id>10</parent_id>
+  </row>
+  <row>
+    <id>129</id>
+    <kod>1727253</kod>
+    <tuman>O‘rtachirchiq tumani</tuman>
+    <markazi>Nurafshon sh.</markazi>
+    <viloyat>1727</viloyat>
+    <parent_id>10</parent_id>
+  </row>
+  <row>
+    <id>130</id>
+    <kod>1727256</kod>
+    <tuman>Chinoz tumani</tuman>
+    <markazi>Chinoz sh.</markazi>
+    <viloyat>1727</viloyat>
+    <parent_id>10</parent_id>
+  </row>
+  <row>
+    <id>131</id>
+    <kod>1727259</kod>
+    <tuman>Yangiyo‘l tumani</tuman>
+    <markazi>Yangiyo‘l sh.</markazi>
+    <viloyat>1727</viloyat>
+    <parent_id>10</parent_id>
+  </row>
+  <row>
+    <id>132</id>
+    <kod>1727265</kod>
+    <tuman>Toshkent tumani</tuman>
+    <markazi>Keles sh.</markazi>
+    <viloyat>1727</viloyat>
+    <parent_id>10</parent_id>
+  </row>
+  <row>
+    <id>133</id>
+    <kod>1730203</kod>
+    <tuman>Oltiariq tumani</tuman>
+    <markazi>Oltiariq shaharchasi</markazi>
+    <viloyat>1730</viloyat>
+    <parent_id>11</parent_id>
+  </row>
+  <row>
+    <id>134</id>
+    <kod>1730206</kod>
+    <tuman>Qo‘shtepa tumani</tuman>
+    <markazi>Langar a.p.</markazi>
+    <viloyat>1730</viloyat>
+    <parent_id>11</parent_id>
+  </row>
+  <row>
+    <id>135</id>
+    <kod>1730209</kod>
+    <tuman>Bog‘dod tumani</tuman>
+    <markazi>Bog‘dod shaharchasi</markazi>
+    <viloyat>1730</viloyat>
+    <parent_id>11</parent_id>
+  </row>
+  <row>
+    <id>136</id>
+    <kod>1730212</kod>
+    <tuman>Buvayda tumani</tuman>
+    <markazi>Ibrat shaharchasi</markazi>
+    <viloyat>1730</viloyat>
+    <parent_id>11</parent_id>
+  </row>
+  <row>
+    <id>137</id>
+    <kod>1730215</kod>
+    <tuman>Beshariq tumani</tuman>
+    <markazi>Beshariq sh.</markazi>
+    <viloyat>1730</viloyat>
+    <parent_id>11</parent_id>
+  </row>
+  <row>
+    <id>138</id>
+    <kod>1730218</kod>
+    <tuman>Quva tumani</tuman>
+    <markazi>Quva sh.</markazi>
+    <viloyat>1730</viloyat>
+    <parent_id>11</parent_id>
+  </row>
+  <row>
+    <id>139</id>
+    <kod>1730221</kod>
+    <tuman>Uchko‘prik tumani</tuman>
+    <markazi>Uchko‘prik shaharchasi</markazi>
+    <viloyat>1730</viloyat>
+    <parent_id>11</parent_id>
+  </row>
+  <row>
+    <id>140</id>
+    <kod>1730224</kod>
+    <tuman>Rishton tumani</tuman>
+    <markazi>Rishton sh.</markazi>
+    <viloyat>1730</viloyat>
+    <parent_id>11</parent_id>
+  </row>
+  <row>
+    <id>141</id>
+    <kod>1730226</kod>
+    <tuman>So‘x tumani</tuman>
+    <markazi>Ravon shaharchasi</markazi>
+    <viloyat>1730</viloyat>
+    <parent_id>11</parent_id>
+  </row>
+  <row>
+    <id>142</id>
+    <kod>1730227</kod>
+    <tuman>Toshloq tumani</tuman>
+    <markazi>Toshloq shaharchasi</markazi>
+    <viloyat>1730</viloyat>
+    <parent_id>11</parent_id>
+  </row>
+  <row>
+    <id>143</id>
+    <kod>1730230</kod>
+    <tuman>O‘zbekiston tumani</tuman>
+    <markazi>Yaypan sh.</markazi>
+    <viloyat>1730</viloyat>
+    <parent_id>11</parent_id>
+  </row>
+  <row>
+    <id>144</id>
+    <kod>1730233</kod>
+    <tuman>Farg‘ona tumani</tuman>
+    <markazi>Chimyon shaharchasi</markazi>
+    <viloyat>1730</viloyat>
+    <parent_id>11</parent_id>
+  </row>
+  <row>
+    <id>145</id>
+    <kod>1730236</kod>
+    <tuman>Dang‘ara tumani</tuman>
+    <markazi>Dang‘ara shaharchasi</markazi>
+    <viloyat>1730</viloyat>
+    <parent_id>11</parent_id>
+  </row>
+  <row>
+    <id>146</id>
+    <kod>1730238</kod>
+    <tuman>Furqat tumani</tuman>
+    <markazi>Navbahor shaharchasi</markazi>
+    <viloyat>1730</viloyat>
+    <parent_id>11</parent_id>
+  </row>
+  <row>
+    <id>147</id>
+    <kod>1730242</kod>
+    <tuman>Yozyovon tumani</tuman>
+    <markazi>Yozyovon shaharchasi</markazi>
+    <viloyat>1730</viloyat>
+    <parent_id>11</parent_id>
+  </row>
+  <row>
+    <id>148</id>
+    <kod>1733204</kod>
+    <tuman>Bog‘ot tumani</tuman>
+    <markazi>Bog‘ot shaharchasi</markazi>
+    <viloyat>1733</viloyat>
+    <parent_id>12</parent_id>
+  </row>
+  <row>
+    <id>149</id>
+    <kod>1733208</kod>
+    <tuman>Gurlan tumani</tuman>
+    <markazi>Gurlan shaharchasi</markazi>
+    <viloyat>1733</viloyat>
+    <parent_id>12</parent_id>
+  </row>
+  <row>
+    <id>150</id>
+    <kod>1733212</kod>
+    <tuman>Qo‘shko‘pir tumani</tuman>
+    <markazi>Qo‘shko‘pir shaharchasi</markazi>
+    <viloyat>1733</viloyat>
+    <parent_id>12</parent_id>
+  </row>
+  <row>
+    <id>151</id>
+    <kod>1733217</kod>
+    <tuman>Urganch tumani</tuman>
+    <markazi>Qoroul a.p.</markazi>
+    <viloyat>1733</viloyat>
+    <parent_id>12</parent_id>
+  </row>
+  <row>
+    <id>152</id>
+    <kod>1733220</kod>
+    <tuman>Xazorasp tumani</tuman>
+    <markazi>Xazorasp shaharchasi</markazi>
+    <viloyat>1733</viloyat>
+    <parent_id>12</parent_id>
+  </row>
+  <row>
+    <id>153</id>
+    <kod>1733221</kod>
+    <tuman>Tuproqqal’a tumani</tuman>
+    <markazi>Pitnak shahri</markazi>
+    <viloyat>1733</viloyat>
+    <parent_id>12</parent_id>
+  </row>
+  <row>
+    <id>154</id>
+    <kod>1733223</kod>
+    <tuman>Xonqa tumani</tuman>
+    <markazi>Xonqa shaharchasi</markazi>
+    <viloyat>1733</viloyat>
+    <parent_id>12</parent_id>
+  </row>
+  <row>
+    <id>155</id>
+    <kod>1733226</kod>
+    <tuman>Xiva tumani</tuman>
+    <markazi>Xiva sh.</markazi>
+    <viloyat>1733</viloyat>
+    <parent_id>12</parent_id>
+  </row>
+  <row>
+    <id>156</id>
+    <kod>1733230</kod>
+    <tuman>Shovot tumani</tuman>
+    <markazi>Shovot shaharchasi</markazi>
+    <viloyat>1733</viloyat>
+    <parent_id>12</parent_id>
+  </row>
+  <row>
+    <id>157</id>
+    <kod>1733233</kod>
+    <tuman>Yangiariq tumani</tuman>
+    <markazi>Yangiariq shaharchasi</markazi>
+    <viloyat>1733</viloyat>
+    <parent_id>12</parent_id>
+  </row>
+  <row>
+    <id>158</id>
+    <kod>1733236</kod>
+    <tuman>Yangibozor tumani</tuman>
+    <markazi>Yangibozor shaharchasi</markazi>
+    <viloyat>1733</viloyat>
+    <parent_id>12</parent_id>
+  </row>
+  <row>
+    <id>159</id>
+    <kod>1735204</kod>
+    <tuman>Amudaryo tumani</tuman>
+    <markazi>Mang‘it sh.</markazi>
+    <viloyat>1735</viloyat>
+    <parent_id>13</parent_id>
+  </row>
+  <row>
+    <id>160</id>
+    <kod>1735207</kod>
+    <tuman>Beruniy tumani</tuman>
+    <markazi>Beruniy sh.</markazi>
+    <viloyat>1735</viloyat>
+    <parent_id>13</parent_id>
+  </row>
+  <row>
+    <id>161</id>
+    <kod>1735209</kod>
+    <tuman>Bo‘zatov tumani</tuman>
+    <markazi>Bo‘zatov shaharchasi</markazi>
+    <viloyat>1735</viloyat>
+    <parent_id>13</parent_id>
+  </row>
+  <row>
+    <id>162</id>
+    <kod>1735211</kod>
+    <tuman>Qorao‘zak tumani</tuman>
+    <markazi>Qorao‘zak shaharchasi</markazi>
+    <viloyat>1735</viloyat>
+    <parent_id>13</parent_id>
+  </row>
+  <row>
+    <id>163</id>
+    <kod>1735212</kod>
+    <tuman>Kegeyli tumani</tuman>
+    <markazi>Kegeyli shaharchasi</markazi>
+    <viloyat>1735</viloyat>
+    <parent_id>13</parent_id>
+  </row>
+  <row>
+    <id>164</id>
+    <kod>1735215</kod>
+    <tuman>Qo‘ng‘irot tumani</tuman>
+    <markazi>Qo‘ng‘irot sh.</markazi>
+    <viloyat>1735</viloyat>
+    <parent_id>13</parent_id>
+  </row>
+  <row>
+    <id>165</id>
+    <kod>1735218</kod>
+    <tuman>Qanliko‘l tumani</tuman>
+    <markazi>Qanliko‘l shaharchasi</markazi>
+    <viloyat>1735</viloyat>
+    <parent_id>13</parent_id>
+  </row>
+  <row>
+    <id>166</id>
+    <kod>1735222</kod>
+    <tuman>Mo‘ynoq tumani</tuman>
+    <markazi>Mo‘ynoq sh.</markazi>
+    <viloyat>1735</viloyat>
+    <parent_id>13</parent_id>
+  </row>
+  <row>
+    <id>167</id>
+    <kod>1735225</kod>
+    <tuman>Nukus tumani</tuman>
+    <markazi>Oqmang‘it shaharchasi</markazi>
+    <viloyat>1735</viloyat>
+    <parent_id>13</parent_id>
+  </row>
+  <row>
+    <id>168</id>
+    <kod>1735228</kod>
+    <tuman>Taxiatosh tumani</tuman>
+    <markazi>Taxiatosh sh.</markazi>
+    <viloyat>1735</viloyat>
+    <parent_id>13</parent_id>
+  </row>
+  <row>
+    <id>169</id>
+    <kod>1735230</kod>
+    <tuman>Taxtako‘pir tumani</tuman>
+    <markazi>Taxtako‘pir shaharchasi</markazi>
+    <viloyat>1735</viloyat>
+    <parent_id>13</parent_id>
+  </row>
+  <row>
+    <id>170</id>
+    <kod>1735233</kod>
+    <tuman>To‘rtko‘l tumani</tuman>
+    <markazi>To‘rtko‘l sh.</markazi>
+    <viloyat>1735</viloyat>
+    <parent_id>13</parent_id>
+  </row>
+  <row>
+    <id>171</id>
+    <kod>1735236</kod>
+    <tuman>Xo‘jayli tumani</tuman>
+    <markazi>Xo‘jayli sh.</markazi>
+    <viloyat>1735</viloyat>
+    <parent_id>13</parent_id>
+  </row>
+  <row>
+    <id>172</id>
+    <kod>1735240</kod>
+    <tuman>Chimboy tumani</tuman>
+    <markazi>Chimboy sh.</markazi>
+    <viloyat>1735</viloyat>
+    <parent_id>13</parent_id>
+  </row>
+  <row>
+    <id>173</id>
+    <kod>1735243</kod>
+    <tuman>Shumanay tumani</tuman>
+    <markazi>Shumanay sh.</markazi>
+    <viloyat>1735</viloyat>
+    <parent_id>13</parent_id>
+  </row>
+  <row>
+    <id>174</id>
+    <kod>1735250</kod>
+    <tuman>Ellikkala tumani</tuman>
+    <markazi>Bo‘ston sh.</markazi>
+    <viloyat>1735</viloyat>
+    <parent_id>13</parent_id>
+  </row>
+  <row>
+    <id>175</id>
+    <kod>1718406</kod>
+    <tuman>Kattaqo‘rg‘on shahar</tuman>
+    <markazi/>
+    <viloyat>1718</viloyat>
+    <parent_id>6</parent_id>
+  </row>
+  <row>
+    <id>176</id>
+    <kod>1727404</kod>
+    <tuman>Olmaliq shahar</tuman>
+    <markazi/>
+    <viloyat>1727</viloyat>
+    <parent_id>10</parent_id>
+  </row>
+  <row>
+    <id>177</id>
+    <kod>1727413</kod>
+    <tuman>Bekobod shahar</tuman>
+    <markazi/>
+    <viloyat>1727</viloyat>
+    <parent_id>10</parent_id>
+  </row>
+  <row>
+    <id>178</id>
+    <kod>1714367</kod>
+    <tuman>Yangi Namangan tumani</tuman>
+    <markazi/>
+    <viloyat>1714</viloyat>
+    <parent_id>5</parent_id>
+  </row>
+  <row>
+    <id>179</id>
+    <kod>1718401</kod>
+    <tuman>Samarqand shahar</tuman>
+    <markazi/>
+    <viloyat>1718</viloyat>
+    <parent_id>6</parent_id>
+  </row>
+  <row>
+    <id>180</id>
+    <kod>1714365</kod>
+    <tuman>Davlatobod tumani</tuman>
+    <markazi/>
+    <viloyat>1714</viloyat>
+    <parent_id>5</parent_id>
+  </row>
+  <row>
+    <id>181</id>
+    <kod>1727401</kod>
+    <tuman>Nurafshon shahar</tuman>
+    <markazi/>
+    <viloyat>1727</viloyat>
+    <parent_id>10</parent_id>
+  </row>
+  <row>
+    <id>182</id>
+    <kod>1714401</kod>
+    <tuman>Namangan shahar</tuman>
+    <markazi/>
+    <viloyat>1714</viloyat>
+    <parent_id>5</parent_id>
+  </row>
+  <row>
+    <id>183</id>
+    <kod>1726292</kod>
+    <tuman>Yangixayot rayoni</tuman>
+    <markazi/>
+    <viloyat>1726</viloyat>
+    <parent_id>9</parent_id>
+  </row>
+  <row>
+    <id>184</id>
+    <kod>1724401</kod>
+    <tuman>Guliston shahar</tuman>
+    <markazi/>
+    <viloyat>1724</viloyat>
+    <parent_id>8</parent_id>
+  </row>
+  <row>
+    <id>185</id>
+    <kod>1708401</kod>
+    <tuman>Jizzax shahar</tuman>
+    <markazi/>
+    <viloyat>1708</viloyat>
+    <parent_id>2</parent_id>
+  </row>
+  <row>
+    <id>186</id>
+    <kod>1735401</kod>
+    <tuman>Nukus shahar</tuman>
+    <markazi/>
+    <viloyat>1735</viloyat>
+    <parent_id>13</parent_id>
+  </row>
+  <row>
+    <id>187</id>
+    <kod>1730401</kod>
+    <tuman>Farg‘ona shahar</tuman>
+    <markazi/>
+    <viloyat>1730</viloyat>
+    <parent_id>11</parent_id>
+  </row>
+  <row>
+    <id>188</id>
+    <kod>1730405</kod>
+    <tuman>Qo‘qon shahar</tuman>
+    <markazi/>
+    <viloyat>1730</viloyat>
+    <parent_id>11</parent_id>
+  </row>
+  <row>
+    <id>189</id>
+    <kod>1730408</kod>
+    <tuman>Quvasoy shahar</tuman>
+    <markazi/>
+    <viloyat>1730</viloyat>
+    <parent_id>11</parent_id>
+  </row>
+  <row>
+    <id>190</id>
+    <kod>1710401</kod>
+    <tuman>Qarshi shahar</tuman>
+    <markazi/>
+    <viloyat>1710</viloyat>
+    <parent_id>3</parent_id>
+  </row>
+  <row>
+    <id>191</id>
+    <kod>1706401</kod>
+    <tuman>Buxoro shahar</tuman>
+    <markazi/>
+    <viloyat>1706</viloyat>
+    <parent_id>1</parent_id>
+  </row>
+  <row>
+    <id>192</id>
+    <kod>1722401</kod>
+    <tuman>Termiz shahar</tuman>
+    <markazi/>
+    <viloyat>1722</viloyat>
+    <parent_id>7</parent_id>
+  </row>
+  <row>
+    <id>193</id>
+    <kod>1710405</kod>
+    <tuman>Shahrisabz shahar</tuman>
+    <markazi/>
+    <viloyat>1710</viloyat>
+    <parent_id>3</parent_id>
+  </row>
+  <row>
+    <id>194</id>
+    <kod>1735250</kod>
+    <tuman>Yellikkala tumani</tuman>
+    <markazi/>
+    <viloyat>1735</viloyat>
+    <parent_id>13</parent_id>
+  </row>
+  <row>
+    <id>195</id>
+    <kod>1703401</kod>
+    <tuman>Andijon shahar</tuman>
+    <markazi/>
+    <viloyat>1703</viloyat>
+    <parent_id>0</parent_id>
+  </row>
+  <row>
+    <id>196</id>
+    <kod>1727407</kod>
+    <tuman>Angren shahar</tuman>
+    <markazi/>
+    <viloyat>1727</viloyat>
+    <parent_id>10</parent_id>
+  </row>
+  <row>
+    <id>197</id>
+    <kod>1727419</kod>
+    <tuman>Chirchiq shahar</tuman>
+    <markazi/>
+    <viloyat>1727</viloyat>
+    <parent_id>10</parent_id>
+  </row>
+  <row>
+    <id>198</id>
+    <kod>1727233</kod>
+    <tuman>Qiyichirchiq tumani</tuman>
+    <markazi/>
+    <viloyat>1727</viloyat>
+    <parent_id>10</parent_id>
+  </row>
+  <row>
+    <id>199</id>
+    <kod>1733401</kod>
+    <tuman>Urganch shahar</tuman>
+    <markazi/>
+    <viloyat>1733</viloyat>
+    <parent_id>12</parent_id>
+  </row>
+  <row>
+    <id>200</id>
+    <kod>1733221</kod>
+    <tuman>Tuproqqal'a tumani</tuman>
+    <markazi/>
+    <viloyat>1733</viloyat>
+    <parent_id>12</parent_id>
+  </row>
+  <row>
+    <id>201</id>
+    <kod>1712408</kod>
+    <tuman>Zarafshon shahar</tuman>
+    <markazi/>
+    <viloyat>1712</viloyat>
+    <parent_id>4</parent_id>
+  </row>
+  <row>
+    <id>202</id>
+    <kod>1712401</kod>
+    <tuman>Navoiy shahar</tuman>
+    <markazi/>
+    <viloyat>1712</viloyat>
+    <parent_id>4</parent_id>
+  </row>
+  <row>
+    <id>203</id>
+    <kod>1706403</kod>
+    <tuman>Kogon shahar</tuman>
+    <markazi/>
+    <viloyat>1706</viloyat>
+    <parent_id>1</parent_id>
+  </row>
+  <row>
+    <id>204</id>
+    <kod>1712248</kod>
+    <tuman>Uchkuduq shahar</tuman>
+    <markazi/>
+    <viloyat>1712</viloyat>
+    <parent_id>4</parent_id>
+  </row>
+  <row>
+    <id>205</id>
+    <kod>1730412</kod>
+    <tuman>Marg‘ilon shahar</tuman>
+    <markazi/>
+    <viloyat>1730</viloyat>
+    <parent_id>11</parent_id>
+  </row>
+  <row>
+    <id>206</id>
+    <kod>1727424</kod>
+    <tuman>Yangiyo‘l shahar</tuman>
+    <markazi/>
+    <viloyat>1727</viloyat>
+    <parent_id>10</parent_id>
+  </row>
+  <row>
+    <id>207</id>
+    <kod>1703408</kod>
+    <tuman>Xonobod shahar</tuman>
+    <markazi/>
+    <viloyat>1703</viloyat>
+    <parent_id>0</parent_id>
+  </row>
+  <row>
+    <id>208</id>
+    <kod>1727415</kod>
+    <tuman>Ohangaron shahar</tuman>
+    <markazi/>
+    <viloyat>1727</viloyat>
+    <parent_id>10</parent_id>
+  </row>
+  <row>
+    <id>209</id>
+    <kod>1733406</kod>
+    <tuman>Xiva shahar</tuman>
+    <markazi/>
+    <viloyat>1733</viloyat>
+    <parent_id>12</parent_id>
+  </row>
+  <row>
+    <id>210</id>
+    <kod>1724413</kod>
+    <tuman>Yangier shahar</tuman>
+    <markazi/>
+    <viloyat>1724</viloyat>
+    <parent_id>8</parent_id>
+  </row>
+  <row>
+    <id>211</id>
+    <kod>1712412</kod>
+    <tuman>G‘ozg‘on shahar</tuman>
+    <markazi/>
+    <viloyat>1712</viloyat>
+    <parent_id>4</parent_id>
+  </row>
+  <row>
+    <id>212</id>
+    <kod>1724410</kod>
+    <tuman>Shirin shahar</tuman>
+    <markazi/>
+    <viloyat>1724</viloyat>
+    <parent_id>8</parent_id>
+  </row>
+</data>

@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <id>0</id>
+    <kod>1703</kod>
+    <viloyat>Andijon viloyati</viloyat>
+    <markazi>Andijon sh.</markazi>
+  </row>
+  <row>
+    <id>1</id>
+    <kod>1706</kod>
+    <viloyat>Buxoro viloyati</viloyat>
+    <markazi>Buxoro sh.</markazi>
+  </row>
+  <row>
+    <id>2</id>
+    <kod>1708</kod>
+    <viloyat>Jizzax viloyati</viloyat>
+    <markazi>Jizzax sh.</markazi>
+  </row>
+  <row>
+    <id>3</id>
+    <kod>1710</kod>
+    <viloyat>Qashqadaryo viloyati</viloyat>
+    <markazi>Qarshi sh.</markazi>
+  </row>
+  <row>
+    <id>4</id>
+    <kod>1712</kod>
+    <viloyat>Navoiy viloyati</viloyat>
+    <markazi>Navoiy sh.</markazi>
+  </row>
+  <row>
+    <id>5</id>
+    <kod>1714</kod>
+    <viloyat>Namangan viloyati</viloyat>
+    <markazi>Namangan sh.</markazi>
+  </row>
+  <row>
+    <id>6</id>
+    <kod>1718</kod>
+    <viloyat>Samarqand viloyati</viloyat>
+    <markazi>Samarqand sh.</markazi>
+  </row>
+  <row>
+    <id>7</id>
+    <kod>1722</kod>
+    <viloyat>Surxondaryo viloyati</viloyat>
+    <markazi>Termiz sh.</markazi>
+  </row>
+  <row>
+    <id>8</id>
+    <kod>1724</kod>
+    <viloyat>Sirdaryo viloyati</viloyat>
+    <markazi>Guliston sh.</markazi>
+  </row>
+  <row>
+    <id>9</id>
+    <kod>1726</kod>
+    <viloyat>Toshkent shahri</viloyat>
+    <markazi/>
+  </row>
+  <row>
+    <id>10</id>
+    <kod>1727</kod>
+    <viloyat>Toshkent viloyati</viloyat>
+    <markazi>Nurafshon sh.</markazi>
+  </row>
+  <row>
+    <id>11</id>
+    <kod>1730</kod>
+    <viloyat>Farg‘ona viloyati</viloyat>
+    <markazi>Farg‘ona sh.</markazi>
+  </row>
+  <row>
+    <id>12</id>
+    <kod>1733</kod>
+    <viloyat>Xorazm viloyati</viloyat>
+    <markazi>Urganch sh.</markazi>
+  </row>
+  <row>
+    <id>13</id>
+    <kod>1735</kod>
+    <viloyat>Qoraqalpog‘iston Respublikasi</viloyat>
+    <markazi>Nukus sh.</markazi>
+  </row>
+</data>

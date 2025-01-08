@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <id>0</id>
+    <viloyat>Andijon viloyati</viloyat>
+  </row>
+  <row>
+    <id>1</id>
+    <viloyat>Buxoro viloyati</viloyat>
+  </row>
+  <row>
+    <id>2</id>
+    <viloyat>Jizzax viloyati</viloyat>
+  </row>
+  <row>
+    <id>3</id>
+    <viloyat>Qashqadaryo viloyati</viloyat>
+  </row>
+  <row>
+    <id>4</id>
+    <viloyat>Navoiy viloyati</viloyat>
+  </row>
+  <row>
+    <id>5</id>
+    <viloyat>Namangan viloyati</viloyat>
+  </row>
+  <row>
+    <id>6</id>
+    <viloyat>Samarqand viloyati</viloyat>
+  </row>
+  <row>
+    <id>7</id>
+    <viloyat>Surxondaryo viloyati</viloyat>
+  </row>
+  <row>
+    <id>8</id>
+    <viloyat>Sirdaryo viloyati</viloyat>
+  </row>
+  <row>
+    <id>9</id>
+    <viloyat>Toshkent shahri</viloyat>
+  </row>
+  <row>
+    <id>10</id>
+    <viloyat>Toshkent viloyati</viloyat>
+  </row>
+  <row>
+    <id>11</id>
+    <viloyat>Farg‘ona viloyati</viloyat>
+  </row>
+  <row>
+    <id>12</id>
+    <viloyat>Xorazm viloyati</viloyat>
+  </row>
+  <row>
+    <id>13</id>
+    <viloyat>Qoraqalpog‘iston Respublikasi</viloyat>
+  </row>
+</data>

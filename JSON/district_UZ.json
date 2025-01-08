@@ -1,0 +1,1706 @@
+[
+  {
+    "id": 0,
+    "kod": 1703202,
+    "tuman": "Oltinko‘l tumani",
+    "markazi": "Oltinko‘l a.p.",
+    "viloyat": 1703,
+    "parent_id": 0
+  },
+  {
+    "id": 1,
+    "kod": 1703203,
+    "tuman": "Andijon tumani",
+    "markazi": "Kuyganyor shaharchasi",
+    "viloyat": 1703,
+    "parent_id": 0
+  },
+  {
+    "id": 2,
+    "kod": 1703206,
+    "tuman": "Baliqchi tumani",
+    "markazi": "Baliqchi shaharchasi",
+    "viloyat": 1703,
+    "parent_id": 0
+  },
+  {
+    "id": 3,
+    "kod": 1703209,
+    "tuman": "Bo‘ston tumani",
+    "markazi": "Bo‘z shaharchasi",
+    "viloyat": 1703,
+    "parent_id": 0
+  },
+  {
+    "id": 4,
+    "kod": 1703210,
+    "tuman": "Buloqboshi tumani",
+    "markazi": "Buloqboshi shaharchasi",
+    "viloyat": 1703,
+    "parent_id": 0
+  },
+  {
+    "id": 5,
+    "kod": 1703211,
+    "tuman": "Jalaquduq tumani",
+    "markazi": "Jalaquduq sh.",
+    "viloyat": 1703,
+    "parent_id": 0
+  },
+  {
+    "id": 6,
+    "kod": 1703214,
+    "tuman": "Izboskan tumani",
+    "markazi": "Paytug sh.",
+    "viloyat": 1703,
+    "parent_id": 0
+  },
+  {
+    "id": 7,
+    "kod": 1703217,
+    "tuman": "Ulug‘nor tumani",
+    "markazi": "Oq oltin shaharchasi",
+    "viloyat": 1703,
+    "parent_id": 0
+  },
+  {
+    "id": 8,
+    "kod": 1703220,
+    "tuman": "Qo‘rg‘ontepa tumani",
+    "markazi": "Qo‘rg‘ontepa sh.",
+    "viloyat": 1703,
+    "parent_id": 0
+  },
+  {
+    "id": 9,
+    "kod": 1703224,
+    "tuman": "Asaka tumani",
+    "markazi": "Asaka sh.",
+    "viloyat": 1703,
+    "parent_id": 0
+  },
+  {
+    "id": 10,
+    "kod": 1703227,
+    "tuman": "Marxamat tumani",
+    "markazi": "Marxamat sh.",
+    "viloyat": 1703,
+    "parent_id": 0
+  },
+  {
+    "id": 11,
+    "kod": 1703230,
+    "tuman": "Shaxrixon tumani",
+    "markazi": "Shaxrixon sh.",
+    "viloyat": 1703,
+    "parent_id": 0
+  },
+  {
+    "id": 12,
+    "kod": 1703232,
+    "tuman": "Paxtaobod tumani",
+    "markazi": "Paxtaobod sh.",
+    "viloyat": 1703,
+    "parent_id": 0
+  },
+  {
+    "id": 13,
+    "kod": 1703236,
+    "tuman": "Xo‘jaobod tumani",
+    "markazi": "Xo‘jaobod sh.",
+    "viloyat": 1703,
+    "parent_id": 0
+  },
+  {
+    "id": 14,
+    "kod": 1706204,
+    "tuman": "Olot tumani",
+    "markazi": "Olot sh.",
+    "viloyat": 1706,
+    "parent_id": 1
+  },
+  {
+    "id": 15,
+    "kod": 1706207,
+    "tuman": "Buxoro tumani",
+    "markazi": "Gala Osiyo shaharchasi",
+    "viloyat": 1706,
+    "parent_id": 1
+  },
+  {
+    "id": 16,
+    "kod": 1706212,
+    "tuman": "Vobkent tumani",
+    "markazi": "Vobkent sh.",
+    "viloyat": 1706,
+    "parent_id": 1
+  },
+  {
+    "id": 17,
+    "kod": 1706215,
+    "tuman": "G‘ijduvon tumani",
+    "markazi": "G‘ijduvon sh.",
+    "viloyat": 1706,
+    "parent_id": 1
+  },
+  {
+    "id": 18,
+    "kod": 1706219,
+    "tuman": "Kogon tumani",
+    "markazi": "Kogon sh.",
+    "viloyat": 1706,
+    "parent_id": 1
+  },
+  {
+    "id": 19,
+    "kod": 1706230,
+    "tuman": "Qorako‘l tumani",
+    "markazi": "Qorako‘l sh.",
+    "viloyat": 1706,
+    "parent_id": 1
+  },
+  {
+    "id": 20,
+    "kod": 1706232,
+    "tuman": "Qorovulbozor tumani",
+    "markazi": "Qorovulbozor sh.",
+    "viloyat": 1706,
+    "parent_id": 1
+  },
+  {
+    "id": 21,
+    "kod": 1706240,
+    "tuman": "Peshku tumani",
+    "markazi": "Yangibozor shaharchasi",
+    "viloyat": 1706,
+    "parent_id": 1
+  },
+  {
+    "id": 22,
+    "kod": 1706242,
+    "tuman": "Romitan tumani",
+    "markazi": "Romitan sh.",
+    "viloyat": 1706,
+    "parent_id": 1
+  },
+  {
+    "id": 23,
+    "kod": 1706246,
+    "tuman": "Jondor tumani",
+    "markazi": "Jondor shaharchasi",
+    "viloyat": 1706,
+    "parent_id": 1
+  },
+  {
+    "id": 24,
+    "kod": 1706258,
+    "tuman": "Shofirkon tumani",
+    "markazi": "Shofirkon sh.",
+    "viloyat": 1706,
+    "parent_id": 1
+  },
+  {
+    "id": 25,
+    "kod": 1708201,
+    "tuman": "Arnasoy tumani",
+    "markazi": "G‘oliblar shaharchasi",
+    "viloyat": 1708,
+    "parent_id": 2
+  },
+  {
+    "id": 26,
+    "kod": 1708204,
+    "tuman": "Baxmal tumani",
+    "markazi": "O‘smat shaharchasi",
+    "viloyat": 1708,
+    "parent_id": 2
+  },
+  {
+    "id": 27,
+    "kod": 1708209,
+    "tuman": "G‘allaorol tumani",
+    "markazi": "G‘allaorol sh.",
+    "viloyat": 1708,
+    "parent_id": 2
+  },
+  {
+    "id": 28,
+    "kod": 1708212,
+    "tuman": "Sharof Rashidov tumani",
+    "markazi": "Uchtepa shaharchasi",
+    "viloyat": 1708,
+    "parent_id": 2
+  },
+  {
+    "id": 29,
+    "kod": 1708215,
+    "tuman": "Do‘stlik tumani",
+    "markazi": "Do‘stlik sh.",
+    "viloyat": 1708,
+    "parent_id": 2
+  },
+  {
+    "id": 30,
+    "kod": 1708218,
+    "tuman": "Zomin tumani",
+    "markazi": "Zomin shaharchasi",
+    "viloyat": 1708,
+    "parent_id": 2
+  },
+  {
+    "id": 31,
+    "kod": 1708220,
+    "tuman": "Zarbdor tumani",
+    "markazi": "Zarbdor shaharchasi",
+    "viloyat": 1708,
+    "parent_id": 2
+  },
+  {
+    "id": 32,
+    "kod": 1708223,
+    "tuman": "Mirzacho‘l tumani",
+    "markazi": "Gagarin sh.",
+    "viloyat": 1708,
+    "parent_id": 2
+  },
+  {
+    "id": 33,
+    "kod": 1708225,
+    "tuman": "Zafarobod tumani",
+    "markazi": "Zafarobod shaharchasi",
+    "viloyat": 1708,
+    "parent_id": 2
+  },
+  {
+    "id": 34,
+    "kod": 1708228,
+    "tuman": "Paxtakor tumani",
+    "markazi": "Paxtakor sh.",
+    "viloyat": 1708,
+    "parent_id": 2
+  },
+  {
+    "id": 35,
+    "kod": 1708235,
+    "tuman": "Forish tumani",
+    "markazi": "Bog‘don shaharchasi",
+    "viloyat": 1708,
+    "parent_id": 2
+  },
+  {
+    "id": 36,
+    "kod": 1708237,
+    "tuman": "Yangiobod tumani",
+    "markazi": "Balandchaqir a.p.",
+    "viloyat": 1708,
+    "parent_id": 2
+  },
+  {
+    "id": 37,
+    "kod": 1710207,
+    "tuman": "G‘uzor tumani",
+    "markazi": "G‘uzor sh.",
+    "viloyat": 1710,
+    "parent_id": 3
+  },
+  {
+    "id": 38,
+    "kod": 1710212,
+    "tuman": "Dehqonobod tumani",
+    "markazi": "Karashina shaharchasi",
+    "viloyat": 1710,
+    "parent_id": 3
+  },
+  {
+    "id": 39,
+    "kod": 1710220,
+    "tuman": "Qamashi tumani",
+    "markazi": "Qamashi sh.",
+    "viloyat": 1710,
+    "parent_id": 3
+  },
+  {
+    "id": 40,
+    "kod": 1710224,
+    "tuman": "Qarshi tumani",
+    "markazi": "Beshkent sh.",
+    "viloyat": 1710,
+    "parent_id": 3
+  },
+  {
+    "id": 41,
+    "kod": 1710229,
+    "tuman": "Koson tumani",
+    "markazi": "Koson sh.",
+    "viloyat": 1710,
+    "parent_id": 3
+  },
+  {
+    "id": 42,
+    "kod": 1710232,
+    "tuman": "Kitob tumani",
+    "markazi": "Kitob sh.",
+    "viloyat": 1710,
+    "parent_id": 3
+  },
+  {
+    "id": 43,
+    "kod": 1710233,
+    "tuman": "Mirishkor tumani",
+    "markazi": "Yangi Mirishkor shaharchasi",
+    "viloyat": 1710,
+    "parent_id": 3
+  },
+  {
+    "id": 44,
+    "kod": 1710234,
+    "tuman": "Muborak tumani",
+    "markazi": "Muborak sh.",
+    "viloyat": 1710,
+    "parent_id": 3
+  },
+  {
+    "id": 45,
+    "kod": 1710235,
+    "tuman": "Nishon tumani",
+    "markazi": "Yangi Nishon sh.",
+    "viloyat": 1710,
+    "parent_id": 3
+  },
+  {
+    "id": 46,
+    "kod": 1710237,
+    "tuman": "Kasbi tumani",
+    "markazi": "Mug‘lon shaharchasi",
+    "viloyat": 1710,
+    "parent_id": 3
+  },
+  {
+    "id": 47,
+    "kod": 1710240,
+    "tuman": "Ko‘kdala tumani",
+    "markazi": "Yettitom sh.",
+    "viloyat": 1710,
+    "parent_id": 3
+  },
+  {
+    "id": 48,
+    "kod": 1710242,
+    "tuman": "Chiroqchi tumani",
+    "markazi": "Chiroqchi sh.",
+    "viloyat": 1710,
+    "parent_id": 3
+  },
+  {
+    "id": 49,
+    "kod": 1710245,
+    "tuman": "Shahrisabz tumani",
+    "markazi": "Shahrisabz sh.",
+    "viloyat": 1710,
+    "parent_id": 3
+  },
+  {
+    "id": 50,
+    "kod": 1710250,
+    "tuman": "Yakkabog‘ tumani",
+    "markazi": "Yakkabog‘ sh.",
+    "viloyat": 1710,
+    "parent_id": 3
+  },
+  {
+    "id": 51,
+    "kod": 1712211,
+    "tuman": "Konimex tumani",
+    "markazi": "Konimex shaharchasi",
+    "viloyat": 1712,
+    "parent_id": 4
+  },
+  {
+    "id": 52,
+    "kod": 1712216,
+    "tuman": "Qiziltepa tumani",
+    "markazi": "Qiziltepa sh.",
+    "viloyat": 1712,
+    "parent_id": 4
+  },
+  {
+    "id": 53,
+    "kod": 1712230,
+    "tuman": "Navbahor tumani",
+    "markazi": "Beshrabot a.p.",
+    "viloyat": 1712,
+    "parent_id": 4
+  },
+  {
+    "id": 54,
+    "kod": 1712234,
+    "tuman": "Karmana tumani",
+    "markazi": "Karmana shaharchasi",
+    "viloyat": 1712,
+    "parent_id": 4
+  },
+  {
+    "id": 55,
+    "kod": 1712238,
+    "tuman": "Nurota tumani",
+    "markazi": "Nurota sh.",
+    "viloyat": 1712,
+    "parent_id": 4
+  },
+  {
+    "id": 56,
+    "kod": 1712244,
+    "tuman": "Tomdi tumani",
+    "markazi": "Tomdibuloq shaharchasi",
+    "viloyat": 1712,
+    "parent_id": 4
+  },
+  {
+    "id": 57,
+    "kod": 1712248,
+    "tuman": "Uchquduq tumani",
+    "markazi": "Uchquduq sh.",
+    "viloyat": 1712,
+    "parent_id": 4
+  },
+  {
+    "id": 58,
+    "kod": 1712251,
+    "tuman": "Xatirchi tumani",
+    "markazi": "Yangirabod sh.",
+    "viloyat": 1712,
+    "parent_id": 4
+  },
+  {
+    "id": 59,
+    "kod": 1714204,
+    "tuman": "Mingbuloq tumani",
+    "markazi": "Jo‘masho‘y shaharchasi",
+    "viloyat": 1714,
+    "parent_id": 5
+  },
+  {
+    "id": 60,
+    "kod": 1714207,
+    "tuman": "Kosonsoy tumani",
+    "markazi": "Kosonsoy sh.",
+    "viloyat": 1714,
+    "parent_id": 5
+  },
+  {
+    "id": 61,
+    "kod": 1714212,
+    "tuman": "Namangan tumani",
+    "markazi": "Toshbuloq shaharchasi",
+    "viloyat": 1714,
+    "parent_id": 5
+  },
+  {
+    "id": 62,
+    "kod": 1714216,
+    "tuman": "Norin tumani",
+    "markazi": "Xaqqulobod sh.",
+    "viloyat": 1714,
+    "parent_id": 5
+  },
+  {
+    "id": 63,
+    "kod": 1714219,
+    "tuman": "Pop tumani",
+    "markazi": "Pop sh.",
+    "viloyat": 1714,
+    "parent_id": 5
+  },
+  {
+    "id": 64,
+    "kod": 1714224,
+    "tuman": "To‘raqo‘rg‘on tumani",
+    "markazi": "To‘raqo‘rg‘on sh.",
+    "viloyat": 1714,
+    "parent_id": 5
+  },
+  {
+    "id": 65,
+    "kod": 1714229,
+    "tuman": "Uychi tumani",
+    "markazi": "Uychi shaharchasi",
+    "viloyat": 1714,
+    "parent_id": 5
+  },
+  {
+    "id": 66,
+    "kod": 1714234,
+    "tuman": "Uchqo‘rg‘on tumani",
+    "markazi": "Uchqo‘rg‘on sh.",
+    "viloyat": 1714,
+    "parent_id": 5
+  },
+  {
+    "id": 67,
+    "kod": 1714236,
+    "tuman": "Chortoq tumani",
+    "markazi": "Chortoq sh.",
+    "viloyat": 1714,
+    "parent_id": 5
+  },
+  {
+    "id": 68,
+    "kod": 1714237,
+    "tuman": "Chust tumani",
+    "markazi": "Chust sh.",
+    "viloyat": 1714,
+    "parent_id": 5
+  },
+  {
+    "id": 69,
+    "kod": 1714242,
+    "tuman": "Yangiqo‘rg‘on tumani",
+    "markazi": "Yangiqo‘rg‘on shaharchasi",
+    "viloyat": 1714,
+    "parent_id": 5
+  },
+  {
+    "id": 70,
+    "kod": 1718203,
+    "tuman": "Oqdaryo tumani",
+    "markazi": "Loyish shaharchasi",
+    "viloyat": 1718,
+    "parent_id": 6
+  },
+  {
+    "id": 71,
+    "kod": 1718206,
+    "tuman": "Bulung‘ur tumani",
+    "markazi": "Bulung‘ur sh.",
+    "viloyat": 1718,
+    "parent_id": 6
+  },
+  {
+    "id": 72,
+    "kod": 1718209,
+    "tuman": "Jomboy tumani",
+    "markazi": "Jomboy sh.",
+    "viloyat": 1718,
+    "parent_id": 6
+  },
+  {
+    "id": 73,
+    "kod": 1718212,
+    "tuman": "Ishtixon tumani",
+    "markazi": "Ishtixon sh.",
+    "viloyat": 1718,
+    "parent_id": 6
+  },
+  {
+    "id": 74,
+    "kod": 1718215,
+    "tuman": "Kattaqo‘rg‘on tumani",
+    "markazi": "Payshanba shaharchasi",
+    "viloyat": 1718,
+    "parent_id": 6
+  },
+  {
+    "id": 75,
+    "kod": 1718216,
+    "tuman": "Qo‘shrabot tumani",
+    "markazi": "Qo‘shrabot shaharchasi",
+    "viloyat": 1718,
+    "parent_id": 6
+  },
+  {
+    "id": 76,
+    "kod": 1718218,
+    "tuman": "Narpay tumani",
+    "markazi": "Oqtosh sh.",
+    "viloyat": 1718,
+    "parent_id": 6
+  },
+  {
+    "id": 77,
+    "kod": 1718224,
+    "tuman": "Payariq tumani",
+    "markazi": "Payariq sh.",
+    "viloyat": 1718,
+    "parent_id": 6
+  },
+  {
+    "id": 78,
+    "kod": 1718227,
+    "tuman": "Pastdarg‘om tumani",
+    "markazi": "Juma sh.",
+    "viloyat": 1718,
+    "parent_id": 6
+  },
+  {
+    "id": 79,
+    "kod": 1718230,
+    "tuman": "Paxtachi tumani",
+    "markazi": "Ziyovuddin shaharchasi",
+    "viloyat": 1718,
+    "parent_id": 6
+  },
+  {
+    "id": 80,
+    "kod": 1718233,
+    "tuman": "Samarqand tumani",
+    "markazi": "Gulobod shaharchasi",
+    "viloyat": 1718,
+    "parent_id": 6
+  },
+  {
+    "id": 81,
+    "kod": 1718235,
+    "tuman": "Nurobod tumani",
+    "markazi": "Nurobod sh.",
+    "viloyat": 1718,
+    "parent_id": 6
+  },
+  {
+    "id": 82,
+    "kod": 1718236,
+    "tuman": "Urgut tumani",
+    "markazi": "Urgut sh.",
+    "viloyat": 1718,
+    "parent_id": 6
+  },
+  {
+    "id": 83,
+    "kod": 1718238,
+    "tuman": "Tayloq tumani",
+    "markazi": "Toyloq shaharchasi",
+    "viloyat": 1718,
+    "parent_id": 6
+  },
+  {
+    "id": 84,
+    "kod": 1722201,
+    "tuman": "Oltinsoy tumani",
+    "markazi": "Qorliq shaharchasi",
+    "viloyat": 1722,
+    "parent_id": 7
+  },
+  {
+    "id": 85,
+    "kod": 1722202,
+    "tuman": "Angor tumani",
+    "markazi": "Angor shaharchasi",
+    "viloyat": 1722,
+    "parent_id": 7
+  },
+  {
+    "id": 86,
+    "kod": 1722203,
+    "tuman": "Bandixon tumani",
+    "markazi": "Bandixon shaharchasi",
+    "viloyat": 1722,
+    "parent_id": 7
+  },
+  {
+    "id": 87,
+    "kod": 1722204,
+    "tuman": "Boysun tumani",
+    "markazi": "Boysun sh.",
+    "viloyat": 1722,
+    "parent_id": 7
+  },
+  {
+    "id": 88,
+    "kod": 1722207,
+    "tuman": "Muzrabot tumani",
+    "markazi": "Xalqobod shaharchasi",
+    "viloyat": 1722,
+    "parent_id": 7
+  },
+  {
+    "id": 89,
+    "kod": 1722210,
+    "tuman": "Denov tumani",
+    "markazi": "Denov sh.",
+    "viloyat": 1722,
+    "parent_id": 7
+  },
+  {
+    "id": 90,
+    "kod": 1722212,
+    "tuman": "Jarqo‘rg‘on tumani",
+    "markazi": "Jarqo‘rg‘on sh.",
+    "viloyat": 1722,
+    "parent_id": 7
+  },
+  {
+    "id": 91,
+    "kod": 1722214,
+    "tuman": "Qumqo‘rg‘on tumani",
+    "markazi": "Qumqo‘rg‘on sh.",
+    "viloyat": 1722,
+    "parent_id": 7
+  },
+  {
+    "id": 92,
+    "kod": 1722215,
+    "tuman": "Qiziriq tumani",
+    "markazi": "Sariq shaharchasi",
+    "viloyat": 1722,
+    "parent_id": 7
+  },
+  {
+    "id": 93,
+    "kod": 1722217,
+    "tuman": "Sariosiyo tumani",
+    "markazi": "Sariosiyo shaharchasi",
+    "viloyat": 1722,
+    "parent_id": 7
+  },
+  {
+    "id": 94,
+    "kod": 1722220,
+    "tuman": "Termiz tumani",
+    "markazi": "Uchqizil shaharchasi",
+    "viloyat": 1722,
+    "parent_id": 7
+  },
+  {
+    "id": 95,
+    "kod": 1722221,
+    "tuman": "Uzun tumani",
+    "markazi": "Uzun shaharchasi",
+    "viloyat": 1722,
+    "parent_id": 7
+  },
+  {
+    "id": 96,
+    "kod": 1722223,
+    "tuman": "Sherobod tumani",
+    "markazi": "Sherobod sh.",
+    "viloyat": 1722,
+    "parent_id": 7
+  },
+  {
+    "id": 97,
+    "kod": 1722226,
+    "tuman": "Sho‘rchi tumani",
+    "markazi": "Sho‘rchi sh.",
+    "viloyat": 1722,
+    "parent_id": 7
+  },
+  {
+    "id": 98,
+    "kod": 1724206,
+    "tuman": "Oqoltin tumani",
+    "markazi": "Sardoba shaharchasi",
+    "viloyat": 1724,
+    "parent_id": 8
+  },
+  {
+    "id": 99,
+    "kod": 1724212,
+    "tuman": "Boyovut tumani",
+    "markazi": "Boyovut shaharchasi",
+    "viloyat": 1724,
+    "parent_id": 8
+  },
+  {
+    "id": 100,
+    "kod": 1724216,
+    "tuman": "Sayxunobod tumani",
+    "markazi": "Sayxun shaharcha",
+    "viloyat": 1724,
+    "parent_id": 8
+  },
+  {
+    "id": 101,
+    "kod": 1724220,
+    "tuman": "Guliston tumani",
+    "markazi": "Dehqonobod shaharchasi",
+    "viloyat": 1724,
+    "parent_id": 8
+  },
+  {
+    "id": 102,
+    "kod": 1724226,
+    "tuman": "Sardoba tumani",
+    "markazi": "Paxtaobod shaharchasi",
+    "viloyat": 1724,
+    "parent_id": 8
+  },
+  {
+    "id": 103,
+    "kod": 1724228,
+    "tuman": "Mirzaobod tumani",
+    "markazi": "Navro‘z shaharchasi",
+    "viloyat": 1724,
+    "parent_id": 8
+  },
+  {
+    "id": 104,
+    "kod": 1724231,
+    "tuman": "Sirdaryo tumani",
+    "markazi": "Sirdaryo sh.",
+    "viloyat": 1724,
+    "parent_id": 8
+  },
+  {
+    "id": 105,
+    "kod": 1724235,
+    "tuman": "Xovos tumani",
+    "markazi": "Xovos shaharchasi",
+    "viloyat": 1724,
+    "parent_id": 8
+  },
+  {
+    "id": 106,
+    "kod": 1726262,
+    "tuman": "Uchtepa tumani",
+    "markazi": "",
+    "viloyat": 1726,
+    "parent_id": 9
+  },
+  {
+    "id": 107,
+    "kod": 1726264,
+    "tuman": "Bektemir tumani",
+    "markazi": "",
+    "viloyat": 1726,
+    "parent_id": 9
+  },
+  {
+    "id": 108,
+    "kod": 1726266,
+    "tuman": "Yunusobod tumani",
+    "markazi": "",
+    "viloyat": 1726,
+    "parent_id": 9
+  },
+  {
+    "id": 109,
+    "kod": 1726269,
+    "tuman": "Mirzo Ulug‘bek tumani",
+    "markazi": "",
+    "viloyat": 1726,
+    "parent_id": 9
+  },
+  {
+    "id": 110,
+    "kod": 1726273,
+    "tuman": "Mirobod tumani",
+    "markazi": "",
+    "viloyat": 1726,
+    "parent_id": 9
+  },
+  {
+    "id": 111,
+    "kod": 1726277,
+    "tuman": "Shayxontoxur tumani",
+    "markazi": "",
+    "viloyat": 1726,
+    "parent_id": 9
+  },
+  {
+    "id": 112,
+    "kod": 1726280,
+    "tuman": "Olmazor tumani",
+    "markazi": "",
+    "viloyat": 1726,
+    "parent_id": 9
+  },
+  {
+    "id": 113,
+    "kod": 1726283,
+    "tuman": "Sirg‘ali tumani",
+    "markazi": "",
+    "viloyat": 1726,
+    "parent_id": 9
+  },
+  {
+    "id": 114,
+    "kod": 1726287,
+    "tuman": "Yakkasaroy tumani",
+    "markazi": "",
+    "viloyat": 1726,
+    "parent_id": 9
+  },
+  {
+    "id": 115,
+    "kod": 1726290,
+    "tuman": "Yashnobod tumani",
+    "markazi": "",
+    "viloyat": 1726,
+    "parent_id": 9
+  },
+  {
+    "id": 116,
+    "kod": 1726292,
+    "tuman": "Yangihayot tumani",
+    "markazi": "",
+    "viloyat": 1726,
+    "parent_id": 9
+  },
+  {
+    "id": 117,
+    "kod": 1726294,
+    "tuman": "Chilonzor tumani",
+    "markazi": "",
+    "viloyat": 1726,
+    "parent_id": 9
+  },
+  {
+    "id": 118,
+    "kod": 1727206,
+    "tuman": "Oqqo‘rg‘on tumani",
+    "markazi": "Oqqo‘rg‘on sh.",
+    "viloyat": 1727,
+    "parent_id": 10
+  },
+  {
+    "id": 119,
+    "kod": 1727212,
+    "tuman": "Ohangaron tumani",
+    "markazi": "Ohangaron sh.",
+    "viloyat": 1727,
+    "parent_id": 10
+  },
+  {
+    "id": 120,
+    "kod": 1727220,
+    "tuman": "Bekobod tumani",
+    "markazi": "Zafar shaharchasi",
+    "viloyat": 1727,
+    "parent_id": 10
+  },
+  {
+    "id": 121,
+    "kod": 1727224,
+    "tuman": "Bo‘stonliq tumani",
+    "markazi": "G‘azalkent sh.",
+    "viloyat": 1727,
+    "parent_id": 10
+  },
+  {
+    "id": 122,
+    "kod": 1727228,
+    "tuman": "Bo‘ka tumani",
+    "markazi": "Bo‘ka sh.",
+    "viloyat": 1727,
+    "parent_id": 10
+  },
+  {
+    "id": 123,
+    "kod": 1727233,
+    "tuman": "Quyichirchiq tumani",
+    "markazi": "Do‘stobod sh.",
+    "viloyat": 1727,
+    "parent_id": 10
+  },
+  {
+    "id": 124,
+    "kod": 1727237,
+    "tuman": "Zangiota tumani",
+    "markazi": "Eshonguzar shaharchasi",
+    "viloyat": 1727,
+    "parent_id": 10
+  },
+  {
+    "id": 125,
+    "kod": 1727239,
+    "tuman": "Yuqorichirchiq tumani",
+    "markazi": "Yangibozor shaharchasi",
+    "viloyat": 1727,
+    "parent_id": 10
+  },
+  {
+    "id": 126,
+    "kod": 1727248,
+    "tuman": "Qibray tumani",
+    "markazi": "Qibray shaharchasi",
+    "viloyat": 1727,
+    "parent_id": 10
+  },
+  {
+    "id": 127,
+    "kod": 1727249,
+    "tuman": "Parkent tumani",
+    "markazi": "Parkent sh.",
+    "viloyat": 1727,
+    "parent_id": 10
+  },
+  {
+    "id": 128,
+    "kod": 1727250,
+    "tuman": "Pskent tumani",
+    "markazi": "Pskent sh.",
+    "viloyat": 1727,
+    "parent_id": 10
+  },
+  {
+    "id": 129,
+    "kod": 1727253,
+    "tuman": "O‘rtachirchiq tumani",
+    "markazi": "Nurafshon sh.",
+    "viloyat": 1727,
+    "parent_id": 10
+  },
+  {
+    "id": 130,
+    "kod": 1727256,
+    "tuman": "Chinoz tumani",
+    "markazi": "Chinoz sh.",
+    "viloyat": 1727,
+    "parent_id": 10
+  },
+  {
+    "id": 131,
+    "kod": 1727259,
+    "tuman": "Yangiyo‘l tumani",
+    "markazi": "Yangiyo‘l sh.",
+    "viloyat": 1727,
+    "parent_id": 10
+  },
+  {
+    "id": 132,
+    "kod": 1727265,
+    "tuman": "Toshkent tumani",
+    "markazi": "Keles sh.",
+    "viloyat": 1727,
+    "parent_id": 10
+  },
+  {
+    "id": 133,
+    "kod": 1730203,
+    "tuman": "Oltiariq tumani",
+    "markazi": "Oltiariq shaharchasi",
+    "viloyat": 1730,
+    "parent_id": 11
+  },
+  {
+    "id": 134,
+    "kod": 1730206,
+    "tuman": "Qo‘shtepa tumani",
+    "markazi": "Langar a.p.",
+    "viloyat": 1730,
+    "parent_id": 11
+  },
+  {
+    "id": 135,
+    "kod": 1730209,
+    "tuman": "Bog‘dod tumani",
+    "markazi": "Bog‘dod shaharchasi",
+    "viloyat": 1730,
+    "parent_id": 11
+  },
+  {
+    "id": 136,
+    "kod": 1730212,
+    "tuman": "Buvayda tumani",
+    "markazi": "Ibrat shaharchasi",
+    "viloyat": 1730,
+    "parent_id": 11
+  },
+  {
+    "id": 137,
+    "kod": 1730215,
+    "tuman": "Beshariq tumani",
+    "markazi": "Beshariq sh.",
+    "viloyat": 1730,
+    "parent_id": 11
+  },
+  {
+    "id": 138,
+    "kod": 1730218,
+    "tuman": "Quva tumani",
+    "markazi": "Quva sh.",
+    "viloyat": 1730,
+    "parent_id": 11
+  },
+  {
+    "id": 139,
+    "kod": 1730221,
+    "tuman": "Uchko‘prik tumani",
+    "markazi": "Uchko‘prik shaharchasi",
+    "viloyat": 1730,
+    "parent_id": 11
+  },
+  {
+    "id": 140,
+    "kod": 1730224,
+    "tuman": "Rishton tumani",
+    "markazi": "Rishton sh.",
+    "viloyat": 1730,
+    "parent_id": 11
+  },
+  {
+    "id": 141,
+    "kod": 1730226,
+    "tuman": "So‘x tumani",
+    "markazi": "Ravon shaharchasi",
+    "viloyat": 1730,
+    "parent_id": 11
+  },
+  {
+    "id": 142,
+    "kod": 1730227,
+    "tuman": "Toshloq tumani",
+    "markazi": "Toshloq shaharchasi",
+    "viloyat": 1730,
+    "parent_id": 11
+  },
+  {
+    "id": 143,
+    "kod": 1730230,
+    "tuman": "O‘zbekiston tumani",
+    "markazi": "Yaypan sh.",
+    "viloyat": 1730,
+    "parent_id": 11
+  },
+  {
+    "id": 144,
+    "kod": 1730233,
+    "tuman": "Farg‘ona tumani",
+    "markazi": "Chimyon shaharchasi",
+    "viloyat": 1730,
+    "parent_id": 11
+  },
+  {
+    "id": 145,
+    "kod": 1730236,
+    "tuman": "Dang‘ara tumani",
+    "markazi": "Dang‘ara shaharchasi",
+    "viloyat": 1730,
+    "parent_id": 11
+  },
+  {
+    "id": 146,
+    "kod": 1730238,
+    "tuman": "Furqat tumani",
+    "markazi": "Navbahor shaharchasi",
+    "viloyat": 1730,
+    "parent_id": 11
+  },
+  {
+    "id": 147,
+    "kod": 1730242,
+    "tuman": "Yozyovon tumani",
+    "markazi": "Yozyovon shaharchasi",
+    "viloyat": 1730,
+    "parent_id": 11
+  },
+  {
+    "id": 148,
+    "kod": 1733204,
+    "tuman": "Bog‘ot tumani",
+    "markazi": "Bog‘ot shaharchasi",
+    "viloyat": 1733,
+    "parent_id": 12
+  },
+  {
+    "id": 149,
+    "kod": 1733208,
+    "tuman": "Gurlan tumani",
+    "markazi": "Gurlan shaharchasi",
+    "viloyat": 1733,
+    "parent_id": 12
+  },
+  {
+    "id": 150,
+    "kod": 1733212,
+    "tuman": "Qo‘shko‘pir tumani",
+    "markazi": "Qo‘shko‘pir shaharchasi",
+    "viloyat": 1733,
+    "parent_id": 12
+  },
+  {
+    "id": 151,
+    "kod": 1733217,
+    "tuman": "Urganch tumani",
+    "markazi": "Qoroul a.p.",
+    "viloyat": 1733,
+    "parent_id": 12
+  },
+  {
+    "id": 152,
+    "kod": 1733220,
+    "tuman": "Xazorasp tumani",
+    "markazi": "Xazorasp shaharchasi",
+    "viloyat": 1733,
+    "parent_id": 12
+  },
+  {
+    "id": 153,
+    "kod": 1733221,
+    "tuman": "Tuproqqal’a tumani",
+    "markazi": "Pitnak shahri",
+    "viloyat": 1733,
+    "parent_id": 12
+  },
+  {
+    "id": 154,
+    "kod": 1733223,
+    "tuman": "Xonqa tumani",
+    "markazi": "Xonqa shaharchasi",
+    "viloyat": 1733,
+    "parent_id": 12
+  },
+  {
+    "id": 155,
+    "kod": 1733226,
+    "tuman": "Xiva tumani",
+    "markazi": "Xiva sh.",
+    "viloyat": 1733,
+    "parent_id": 12
+  },
+  {
+    "id": 156,
+    "kod": 1733230,
+    "tuman": "Shovot tumani",
+    "markazi": "Shovot shaharchasi",
+    "viloyat": 1733,
+    "parent_id": 12
+  },
+  {
+    "id": 157,
+    "kod": 1733233,
+    "tuman": "Yangiariq tumani",
+    "markazi": "Yangiariq shaharchasi",
+    "viloyat": 1733,
+    "parent_id": 12
+  },
+  {
+    "id": 158,
+    "kod": 1733236,
+    "tuman": "Yangibozor tumani",
+    "markazi": "Yangibozor shaharchasi",
+    "viloyat": 1733,
+    "parent_id": 12
+  },
+  {
+    "id": 159,
+    "kod": 1735204,
+    "tuman": "Amudaryo tumani",
+    "markazi": "Mang‘it sh.",
+    "viloyat": 1735,
+    "parent_id": 13
+  },
+  {
+    "id": 160,
+    "kod": 1735207,
+    "tuman": "Beruniy tumani",
+    "markazi": "Beruniy sh.",
+    "viloyat": 1735,
+    "parent_id": 13
+  },
+  {
+    "id": 161,
+    "kod": 1735209,
+    "tuman": "Bo‘zatov tumani",
+    "markazi": "Bo‘zatov shaharchasi",
+    "viloyat": 1735,
+    "parent_id": 13
+  },
+  {
+    "id": 162,
+    "kod": 1735211,
+    "tuman": "Qorao‘zak tumani",
+    "markazi": "Qorao‘zak shaharchasi",
+    "viloyat": 1735,
+    "parent_id": 13
+  },
+  {
+    "id": 163,
+    "kod": 1735212,
+    "tuman": "Kegeyli tumani",
+    "markazi": "Kegeyli shaharchasi",
+    "viloyat": 1735,
+    "parent_id": 13
+  },
+  {
+    "id": 164,
+    "kod": 1735215,
+    "tuman": "Qo‘ng‘irot tumani",
+    "markazi": "Qo‘ng‘irot sh.",
+    "viloyat": 1735,
+    "parent_id": 13
+  },
+  {
+    "id": 165,
+    "kod": 1735218,
+    "tuman": "Qanliko‘l tumani",
+    "markazi": "Qanliko‘l shaharchasi",
+    "viloyat": 1735,
+    "parent_id": 13
+  },
+  {
+    "id": 166,
+    "kod": 1735222,
+    "tuman": "Mo‘ynoq tumani",
+    "markazi": "Mo‘ynoq sh.",
+    "viloyat": 1735,
+    "parent_id": 13
+  },
+  {
+    "id": 167,
+    "kod": 1735225,
+    "tuman": "Nukus tumani",
+    "markazi": "Oqmang‘it shaharchasi",
+    "viloyat": 1735,
+    "parent_id": 13
+  },
+  {
+    "id": 168,
+    "kod": 1735228,
+    "tuman": "Taxiatosh tumani",
+    "markazi": "Taxiatosh sh.",
+    "viloyat": 1735,
+    "parent_id": 13
+  },
+  {
+    "id": 169,
+    "kod": 1735230,
+    "tuman": "Taxtako‘pir tumani",
+    "markazi": "Taxtako‘pir shaharchasi",
+    "viloyat": 1735,
+    "parent_id": 13
+  },
+  {
+    "id": 170,
+    "kod": 1735233,
+    "tuman": "To‘rtko‘l tumani",
+    "markazi": "To‘rtko‘l sh.",
+    "viloyat": 1735,
+    "parent_id": 13
+  },
+  {
+    "id": 171,
+    "kod": 1735236,
+    "tuman": "Xo‘jayli tumani",
+    "markazi": "Xo‘jayli sh.",
+    "viloyat": 1735,
+    "parent_id": 13
+  },
+  {
+    "id": 172,
+    "kod": 1735240,
+    "tuman": "Chimboy tumani",
+    "markazi": "Chimboy sh.",
+    "viloyat": 1735,
+    "parent_id": 13
+  },
+  {
+    "id": 173,
+    "kod": 1735243,
+    "tuman": "Shumanay tumani",
+    "markazi": "Shumanay sh.",
+    "viloyat": 1735,
+    "parent_id": 13
+  },
+  {
+    "id": 174,
+    "kod": 1735250,
+    "tuman": "Ellikkala tumani",
+    "markazi": "Bo‘ston sh.",
+    "viloyat": 1735,
+    "parent_id": 13
+  },
+  {
+    "id": 175,
+    "kod": 1718406,
+    "tuman": "Kattaqo‘rg‘on shahar",
+    "markazi": "",
+    "viloyat": 1718,
+    "parent_id": 6
+  },
+  {
+    "id": 176,
+    "kod": 1727404,
+    "tuman": "Olmaliq shahar",
+    "markazi": "",
+    "viloyat": 1727,
+    "parent_id": 10
+  },
+  {
+    "id": 177,
+    "kod": 1727413,
+    "tuman": "Bekobod shahar",
+    "markazi": "",
+    "viloyat": 1727,
+    "parent_id": 10
+  },
+  {
+    "id": 178,
+    "kod": 1714367,
+    "tuman": "Yangi Namangan tumani",
+    "markazi": "",
+    "viloyat": 1714,
+    "parent_id": 5
+  },
+  {
+    "id": 179,
+    "kod": 1718401,
+    "tuman": "Samarqand shahar",
+    "markazi": "",
+    "viloyat": 1718,
+    "parent_id": 6
+  },
+  {
+    "id": 180,
+    "kod": 1714365,
+    "tuman": "Davlatobod tumani",
+    "markazi": "",
+    "viloyat": 1714,
+    "parent_id": 5
+  },
+  {
+    "id": 181,
+    "kod": 1727401,
+    "tuman": "Nurafshon shahar",
+    "markazi": "",
+    "viloyat": 1727,
+    "parent_id": 10
+  },
+  {
+    "id": 182,
+    "kod": 1714401,
+    "tuman": "Namangan shahar",
+    "markazi": "",
+    "viloyat": 1714,
+    "parent_id": 5
+  },
+  {
+    "id": 183,
+    "kod": 1726292,
+    "tuman": "Yangixayot rayoni",
+    "markazi": "",
+    "viloyat": 1726,
+    "parent_id": 9
+  },
+  {
+    "id": 184,
+    "kod": 1724401,
+    "tuman": "Guliston shahar",
+    "markazi": "",
+    "viloyat": 1724,
+    "parent_id": 8
+  },
+  {
+    "id": 185,
+    "kod": 1708401,
+    "tuman": "Jizzax shahar",
+    "markazi": "",
+    "viloyat": 1708,
+    "parent_id": 2
+  },
+  {
+    "id": 186,
+    "kod": 1735401,
+    "tuman": "Nukus shahar",
+    "markazi": "",
+    "viloyat": 1735,
+    "parent_id": 13
+  },
+  {
+    "id": 187,
+    "kod": 1730401,
+    "tuman": "Farg‘ona shahar",
+    "markazi": "",
+    "viloyat": 1730,
+    "parent_id": 11
+  },
+  {
+    "id": 188,
+    "kod": 1730405,
+    "tuman": "Qo‘qon shahar",
+    "markazi": "",
+    "viloyat": 1730,
+    "parent_id": 11
+  },
+  {
+    "id": 189,
+    "kod": 1730408,
+    "tuman": "Quvasoy shahar",
+    "markazi": "",
+    "viloyat": 1730,
+    "parent_id": 11
+  },
+  {
+    "id": 190,
+    "kod": 1710401,
+    "tuman": "Qarshi shahar",
+    "markazi": "",
+    "viloyat": 1710,
+    "parent_id": 3
+  },
+  {
+    "id": 191,
+    "kod": 1706401,
+    "tuman": "Buxoro shahar",
+    "markazi": "",
+    "viloyat": 1706,
+    "parent_id": 1
+  },
+  {
+    "id": 192,
+    "kod": 1722401,
+    "tuman": "Termiz shahar",
+    "markazi": "",
+    "viloyat": 1722,
+    "parent_id": 7
+  },
+  {
+    "id": 193,
+    "kod": 1710405,
+    "tuman": "Shahrisabz shahar",
+    "markazi": "",
+    "viloyat": 1710,
+    "parent_id": 3
+  },
+  {
+    "id": 194,
+    "kod": 1735250,
+    "tuman": "Yellikkala tumani",
+    "markazi": "",
+    "viloyat": 1735,
+    "parent_id": 13
+  },
+  {
+    "id": 195,
+    "kod": 1703401,
+    "tuman": "Andijon shahar",
+    "markazi": "",
+    "viloyat": 1703,
+    "parent_id": 0
+  },
+  {
+    "id": 196,
+    "kod": 1727407,
+    "tuman": "Angren shahar",
+    "markazi": "",
+    "viloyat": 1727,
+    "parent_id": 10
+  },
+  {
+    "id": 197,
+    "kod": 1727419,
+    "tuman": "Chirchiq shahar",
+    "markazi": "",
+    "viloyat": 1727,
+    "parent_id": 10
+  },
+  {
+    "id": 198,
+    "kod": 1727233,
+    "tuman": "Qiyichirchiq tumani",
+    "markazi": "",
+    "viloyat": 1727,
+    "parent_id": 10
+  },
+  {
+    "id": 199,
+    "kod": 1733401,
+    "tuman": "Urganch shahar",
+    "markazi": "",
+    "viloyat": 1733,
+    "parent_id": 12
+  },
+  {
+    "id": 200,
+    "kod": 1733221,
+    "tuman": "Tuproqqal'a tumani",
+    "markazi": "",
+    "viloyat": 1733,
+    "parent_id": 12
+  },
+  {
+    "id": 201,
+    "kod": 1712408,
+    "tuman": "Zarafshon shahar",
+    "markazi": "",
+    "viloyat": 1712,
+    "parent_id": 4
+  },
+  {
+    "id": 202,
+    "kod": 1712401,
+    "tuman": "Navoiy shahar",
+    "markazi": "",
+    "viloyat": 1712,
+    "parent_id": 4
+  },
+  {
+    "id": 203,
+    "kod": 1706403,
+    "tuman": "Kogon shahar",
+    "markazi": "",
+    "viloyat": 1706,
+    "parent_id": 1
+  },
+  {
+    "id": 204,
+    "kod": 1712248,
+    "tuman": "Uchkuduq shahar",
+    "markazi": "",
+    "viloyat": 1712,
+    "parent_id": 4
+  },
+  {
+    "id": 205,
+    "kod": 1730412,
+    "tuman": "Marg‘ilon shahar",
+    "markazi": "",
+    "viloyat": 1730,
+    "parent_id": 11
+  },
+  {
+    "id": 206,
+    "kod": 1727424,
+    "tuman": "Yangiyo‘l shahar",
+    "markazi": "",
+    "viloyat": 1727,
+    "parent_id": 10
+  },
+  {
+    "id": 207,
+    "kod": 1703408,
+    "tuman": "Xonobod shahar",
+    "markazi": "",
+    "viloyat": 1703,
+    "parent_id": 0
+  },
+  {
+    "id": 208,
+    "kod": 1727415,
+    "tuman": "Ohangaron shahar",
+    "markazi": "",
+    "viloyat": 1727,
+    "parent_id": 10
+  },
+  {
+    "id": 209,
+    "kod": 1733406,
+    "tuman": "Xiva shahar",
+    "markazi": "",
+    "viloyat": 1733,
+    "parent_id": 12
+  },
+  {
+    "id": 210,
+    "kod": 1724413,
+    "tuman": "Yangier shahar",
+    "markazi": "",
+    "viloyat": 1724,
+    "parent_id": 8
+  },
+  {
+    "id": 211,
+    "kod": 1712412,
+    "tuman": "G‘ozg‘on shahar",
+    "markazi": "",
+    "viloyat": 1712,
+    "parent_id": 4
+  },
+  {
+    "id": 212,
+    "kod": 1724410,
+    "tuman": "Shirin shahar",
+    "markazi": "",
+    "viloyat": 1724,
+    "parent_id": 8
+  }
+]

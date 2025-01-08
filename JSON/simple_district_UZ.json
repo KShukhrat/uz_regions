@@ -1,0 +1,1067 @@
+[
+  {
+    "id": 0,
+    "tuman": "Oltinko‘l tumani",
+    "parent_id": 0
+  },
+  {
+    "id": 1,
+    "tuman": "Andijon tumani",
+    "parent_id": 0
+  },
+  {
+    "id": 2,
+    "tuman": "Baliqchi tumani",
+    "parent_id": 0
+  },
+  {
+    "id": 3,
+    "tuman": "Bo‘ston tumani",
+    "parent_id": 0
+  },
+  {
+    "id": 4,
+    "tuman": "Buloqboshi tumani",
+    "parent_id": 0
+  },
+  {
+    "id": 5,
+    "tuman": "Jalaquduq tumani",
+    "parent_id": 0
+  },
+  {
+    "id": 6,
+    "tuman": "Izboskan tumani",
+    "parent_id": 0
+  },
+  {
+    "id": 7,
+    "tuman": "Ulug‘nor tumani",
+    "parent_id": 0
+  },
+  {
+    "id": 8,
+    "tuman": "Qo‘rg‘ontepa tumani",
+    "parent_id": 0
+  },
+  {
+    "id": 9,
+    "tuman": "Asaka tumani",
+    "parent_id": 0
+  },
+  {
+    "id": 10,
+    "tuman": "Marxamat tumani",
+    "parent_id": 0
+  },
+  {
+    "id": 11,
+    "tuman": "Shaxrixon tumani",
+    "parent_id": 0
+  },
+  {
+    "id": 12,
+    "tuman": "Paxtaobod tumani",
+    "parent_id": 0
+  },
+  {
+    "id": 13,
+    "tuman": "Xo‘jaobod tumani",
+    "parent_id": 0
+  },
+  {
+    "id": 14,
+    "tuman": "Olot tumani",
+    "parent_id": 1
+  },
+  {
+    "id": 15,
+    "tuman": "Buxoro tumani",
+    "parent_id": 1
+  },
+  {
+    "id": 16,
+    "tuman": "Vobkent tumani",
+    "parent_id": 1
+  },
+  {
+    "id": 17,
+    "tuman": "G‘ijduvon tumani",
+    "parent_id": 1
+  },
+  {
+    "id": 18,
+    "tuman": "Kogon tumani",
+    "parent_id": 1
+  },
+  {
+    "id": 19,
+    "tuman": "Qorako‘l tumani",
+    "parent_id": 1
+  },
+  {
+    "id": 20,
+    "tuman": "Qorovulbozor tumani",
+    "parent_id": 1
+  },
+  {
+    "id": 21,
+    "tuman": "Peshku tumani",
+    "parent_id": 1
+  },
+  {
+    "id": 22,
+    "tuman": "Romitan tumani",
+    "parent_id": 1
+  },
+  {
+    "id": 23,
+    "tuman": "Jondor tumani",
+    "parent_id": 1
+  },
+  {
+    "id": 24,
+    "tuman": "Shofirkon tumani",
+    "parent_id": 1
+  },
+  {
+    "id": 25,
+    "tuman": "Arnasoy tumani",
+    "parent_id": 2
+  },
+  {
+    "id": 26,
+    "tuman": "Baxmal tumani",
+    "parent_id": 2
+  },
+  {
+    "id": 27,
+    "tuman": "G‘allaorol tumani",
+    "parent_id": 2
+  },
+  {
+    "id": 28,
+    "tuman": "Sharof Rashidov tumani",
+    "parent_id": 2
+  },
+  {
+    "id": 29,
+    "tuman": "Do‘stlik tumani",
+    "parent_id": 2
+  },
+  {
+    "id": 30,
+    "tuman": "Zomin tumani",
+    "parent_id": 2
+  },
+  {
+    "id": 31,
+    "tuman": "Zarbdor tumani",
+    "parent_id": 2
+  },
+  {
+    "id": 32,
+    "tuman": "Mirzacho‘l tumani",
+    "parent_id": 2
+  },
+  {
+    "id": 33,
+    "tuman": "Zafarobod tumani",
+    "parent_id": 2
+  },
+  {
+    "id": 34,
+    "tuman": "Paxtakor tumani",
+    "parent_id": 2
+  },
+  {
+    "id": 35,
+    "tuman": "Forish tumani",
+    "parent_id": 2
+  },
+  {
+    "id": 36,
+    "tuman": "Yangiobod tumani",
+    "parent_id": 2
+  },
+  {
+    "id": 37,
+    "tuman": "G‘uzor tumani",
+    "parent_id": 3
+  },
+  {
+    "id": 38,
+    "tuman": "Dehqonobod tumani",
+    "parent_id": 3
+  },
+  {
+    "id": 39,
+    "tuman": "Qamashi tumani",
+    "parent_id": 3
+  },
+  {
+    "id": 40,
+    "tuman": "Qarshi tumani",
+    "parent_id": 3
+  },
+  {
+    "id": 41,
+    "tuman": "Koson tumani",
+    "parent_id": 3
+  },
+  {
+    "id": 42,
+    "tuman": "Kitob tumani",
+    "parent_id": 3
+  },
+  {
+    "id": 43,
+    "tuman": "Mirishkor tumani",
+    "parent_id": 3
+  },
+  {
+    "id": 44,
+    "tuman": "Muborak tumani",
+    "parent_id": 3
+  },
+  {
+    "id": 45,
+    "tuman": "Nishon tumani",
+    "parent_id": 3
+  },
+  {
+    "id": 46,
+    "tuman": "Kasbi tumani",
+    "parent_id": 3
+  },
+  {
+    "id": 47,
+    "tuman": "Ko‘kdala tumani",
+    "parent_id": 3
+  },
+  {
+    "id": 48,
+    "tuman": "Chiroqchi tumani",
+    "parent_id": 3
+  },
+  {
+    "id": 49,
+    "tuman": "Shahrisabz tumani",
+    "parent_id": 3
+  },
+  {
+    "id": 50,
+    "tuman": "Yakkabog‘ tumani",
+    "parent_id": 3
+  },
+  {
+    "id": 51,
+    "tuman": "Konimex tumani",
+    "parent_id": 4
+  },
+  {
+    "id": 52,
+    "tuman": "Qiziltepa tumani",
+    "parent_id": 4
+  },
+  {
+    "id": 53,
+    "tuman": "Navbahor tumani",
+    "parent_id": 4
+  },
+  {
+    "id": 54,
+    "tuman": "Karmana tumani",
+    "parent_id": 4
+  },
+  {
+    "id": 55,
+    "tuman": "Nurota tumani",
+    "parent_id": 4
+  },
+  {
+    "id": 56,
+    "tuman": "Tomdi tumani",
+    "parent_id": 4
+  },
+  {
+    "id": 57,
+    "tuman": "Uchquduq tumani",
+    "parent_id": 4
+  },
+  {
+    "id": 58,
+    "tuman": "Xatirchi tumani",
+    "parent_id": 4
+  },
+  {
+    "id": 59,
+    "tuman": "Mingbuloq tumani",
+    "parent_id": 5
+  },
+  {
+    "id": 60,
+    "tuman": "Kosonsoy tumani",
+    "parent_id": 5
+  },
+  {
+    "id": 61,
+    "tuman": "Namangan tumani",
+    "parent_id": 5
+  },
+  {
+    "id": 62,
+    "tuman": "Norin tumani",
+    "parent_id": 5
+  },
+  {
+    "id": 63,
+    "tuman": "Pop tumani",
+    "parent_id": 5
+  },
+  {
+    "id": 64,
+    "tuman": "To‘raqo‘rg‘on tumani",
+    "parent_id": 5
+  },
+  {
+    "id": 65,
+    "tuman": "Uychi tumani",
+    "parent_id": 5
+  },
+  {
+    "id": 66,
+    "tuman": "Uchqo‘rg‘on tumani",
+    "parent_id": 5
+  },
+  {
+    "id": 67,
+    "tuman": "Chortoq tumani",
+    "parent_id": 5
+  },
+  {
+    "id": 68,
+    "tuman": "Chust tumani",
+    "parent_id": 5
+  },
+  {
+    "id": 69,
+    "tuman": "Yangiqo‘rg‘on tumani",
+    "parent_id": 5
+  },
+  {
+    "id": 70,
+    "tuman": "Oqdaryo tumani",
+    "parent_id": 6
+  },
+  {
+    "id": 71,
+    "tuman": "Bulung‘ur tumani",
+    "parent_id": 6
+  },
+  {
+    "id": 72,
+    "tuman": "Jomboy tumani",
+    "parent_id": 6
+  },
+  {
+    "id": 73,
+    "tuman": "Ishtixon tumani",
+    "parent_id": 6
+  },
+  {
+    "id": 74,
+    "tuman": "Kattaqo‘rg‘on tumani",
+    "parent_id": 6
+  },
+  {
+    "id": 75,
+    "tuman": "Qo‘shrabot tumani",
+    "parent_id": 6
+  },
+  {
+    "id": 76,
+    "tuman": "Narpay tumani",
+    "parent_id": 6
+  },
+  {
+    "id": 77,
+    "tuman": "Payariq tumani",
+    "parent_id": 6
+  },
+  {
+    "id": 78,
+    "tuman": "Pastdarg‘om tumani",
+    "parent_id": 6
+  },
+  {
+    "id": 79,
+    "tuman": "Paxtachi tumani",
+    "parent_id": 6
+  },
+  {
+    "id": 80,
+    "tuman": "Samarqand tumani",
+    "parent_id": 6
+  },
+  {
+    "id": 81,
+    "tuman": "Nurobod tumani",
+    "parent_id": 6
+  },
+  {
+    "id": 82,
+    "tuman": "Urgut tumani",
+    "parent_id": 6
+  },
+  {
+    "id": 83,
+    "tuman": "Tayloq tumani",
+    "parent_id": 6
+  },
+  {
+    "id": 84,
+    "tuman": "Oltinsoy tumani",
+    "parent_id": 7
+  },
+  {
+    "id": 85,
+    "tuman": "Angor tumani",
+    "parent_id": 7
+  },
+  {
+    "id": 86,
+    "tuman": "Bandixon tumani",
+    "parent_id": 7
+  },
+  {
+    "id": 87,
+    "tuman": "Boysun tumani",
+    "parent_id": 7
+  },
+  {
+    "id": 88,
+    "tuman": "Muzrabot tumani",
+    "parent_id": 7
+  },
+  {
+    "id": 89,
+    "tuman": "Denov tumani",
+    "parent_id": 7
+  },
+  {
+    "id": 90,
+    "tuman": "Jarqo‘rg‘on tumani",
+    "parent_id": 7
+  },
+  {
+    "id": 91,
+    "tuman": "Qumqo‘rg‘on tumani",
+    "parent_id": 7
+  },
+  {
+    "id": 92,
+    "tuman": "Qiziriq tumani",
+    "parent_id": 7
+  },
+  {
+    "id": 93,
+    "tuman": "Sariosiyo tumani",
+    "parent_id": 7
+  },
+  {
+    "id": 94,
+    "tuman": "Termiz tumani",
+    "parent_id": 7
+  },
+  {
+    "id": 95,
+    "tuman": "Uzun tumani",
+    "parent_id": 7
+  },
+  {
+    "id": 96,
+    "tuman": "Sherobod tumani",
+    "parent_id": 7
+  },
+  {
+    "id": 97,
+    "tuman": "Sho‘rchi tumani",
+    "parent_id": 7
+  },
+  {
+    "id": 98,
+    "tuman": "Oqoltin tumani",
+    "parent_id": 8
+  },
+  {
+    "id": 99,
+    "tuman": "Boyovut tumani",
+    "parent_id": 8
+  },
+  {
+    "id": 100,
+    "tuman": "Sayxunobod tumani",
+    "parent_id": 8
+  },
+  {
+    "id": 101,
+    "tuman": "Guliston tumani",
+    "parent_id": 8
+  },
+  {
+    "id": 102,
+    "tuman": "Sardoba tumani",
+    "parent_id": 8
+  },
+  {
+    "id": 103,
+    "tuman": "Mirzaobod tumani",
+    "parent_id": 8
+  },
+  {
+    "id": 104,
+    "tuman": "Sirdaryo tumani",
+    "parent_id": 8
+  },
+  {
+    "id": 105,
+    "tuman": "Xovos tumani",
+    "parent_id": 8
+  },
+  {
+    "id": 106,
+    "tuman": "Uchtepa tumani",
+    "parent_id": 9
+  },
+  {
+    "id": 107,
+    "tuman": "Bektemir tumani",
+    "parent_id": 9
+  },
+  {
+    "id": 108,
+    "tuman": "Yunusobod tumani",
+    "parent_id": 9
+  },
+  {
+    "id": 109,
+    "tuman": "Mirzo Ulug‘bek tumani",
+    "parent_id": 9
+  },
+  {
+    "id": 110,
+    "tuman": "Mirobod tumani",
+    "parent_id": 9
+  },
+  {
+    "id": 111,
+    "tuman": "Shayxontoxur tumani",
+    "parent_id": 9
+  },
+  {
+    "id": 112,
+    "tuman": "Olmazor tumani",
+    "parent_id": 9
+  },
+  {
+    "id": 113,
+    "tuman": "Sirg‘ali tumani",
+    "parent_id": 9
+  },
+  {
+    "id": 114,
+    "tuman": "Yakkasaroy tumani",
+    "parent_id": 9
+  },
+  {
+    "id": 115,
+    "tuman": "Yashnobod tumani",
+    "parent_id": 9
+  },
+  {
+    "id": 116,
+    "tuman": "Yangihayot tumani",
+    "parent_id": 9
+  },
+  {
+    "id": 117,
+    "tuman": "Chilonzor tumani",
+    "parent_id": 9
+  },
+  {
+    "id": 118,
+    "tuman": "Oqqo‘rg‘on tumani",
+    "parent_id": 10
+  },
+  {
+    "id": 119,
+    "tuman": "Ohangaron tumani",
+    "parent_id": 10
+  },
+  {
+    "id": 120,
+    "tuman": "Bekobod tumani",
+    "parent_id": 10
+  },
+  {
+    "id": 121,
+    "tuman": "Bo‘stonliq tumani",
+    "parent_id": 10
+  },
+  {
+    "id": 122,
+    "tuman": "Bo‘ka tumani",
+    "parent_id": 10
+  },
+  {
+    "id": 123,
+    "tuman": "Quyichirchiq tumani",
+    "parent_id": 10
+  },
+  {
+    "id": 124,
+    "tuman": "Zangiota tumani",
+    "parent_id": 10
+  },
+  {
+    "id": 125,
+    "tuman": "Yuqorichirchiq tumani",
+    "parent_id": 10
+  },
+  {
+    "id": 126,
+    "tuman": "Qibray tumani",
+    "parent_id": 10
+  },
+  {
+    "id": 127,
+    "tuman": "Parkent tumani",
+    "parent_id": 10
+  },
+  {
+    "id": 128,
+    "tuman": "Pskent tumani",
+    "parent_id": 10
+  },
+  {
+    "id": 129,
+    "tuman": "O‘rtachirchiq tumani",
+    "parent_id": 10
+  },
+  {
+    "id": 130,
+    "tuman": "Chinoz tumani",
+    "parent_id": 10
+  },
+  {
+    "id": 131,
+    "tuman": "Yangiyo‘l tumani",
+    "parent_id": 10
+  },
+  {
+    "id": 132,
+    "tuman": "Toshkent tumani",
+    "parent_id": 10
+  },
+  {
+    "id": 133,
+    "tuman": "Oltiariq tumani",
+    "parent_id": 11
+  },
+  {
+    "id": 134,
+    "tuman": "Qo‘shtepa tumani",
+    "parent_id": 11
+  },
+  {
+    "id": 135,
+    "tuman": "Bog‘dod tumani",
+    "parent_id": 11
+  },
+  {
+    "id": 136,
+    "tuman": "Buvayda tumani",
+    "parent_id": 11
+  },
+  {
+    "id": 137,
+    "tuman": "Beshariq tumani",
+    "parent_id": 11
+  },
+  {
+    "id": 138,
+    "tuman": "Quva tumani",
+    "parent_id": 11
+  },
+  {
+    "id": 139,
+    "tuman": "Uchko‘prik tumani",
+    "parent_id": 11
+  },
+  {
+    "id": 140,
+    "tuman": "Rishton tumani",
+    "parent_id": 11
+  },
+  {
+    "id": 141,
+    "tuman": "So‘x tumani",
+    "parent_id": 11
+  },
+  {
+    "id": 142,
+    "tuman": "Toshloq tumani",
+    "parent_id": 11
+  },
+  {
+    "id": 143,
+    "tuman": "O‘zbekiston tumani",
+    "parent_id": 11
+  },
+  {
+    "id": 144,
+    "tuman": "Farg‘ona tumani",
+    "parent_id": 11
+  },
+  {
+    "id": 145,
+    "tuman": "Dang‘ara tumani",
+    "parent_id": 11
+  },
+  {
+    "id": 146,
+    "tuman": "Furqat tumani",
+    "parent_id": 11
+  },
+  {
+    "id": 147,
+    "tuman": "Yozyovon tumani",
+    "parent_id": 11
+  },
+  {
+    "id": 148,
+    "tuman": "Bog‘ot tumani",
+    "parent_id": 12
+  },
+  {
+    "id": 149,
+    "tuman": "Gurlan tumani",
+    "parent_id": 12
+  },
+  {
+    "id": 150,
+    "tuman": "Qo‘shko‘pir tumani",
+    "parent_id": 12
+  },
+  {
+    "id": 151,
+    "tuman": "Urganch tumani",
+    "parent_id": 12
+  },
+  {
+    "id": 152,
+    "tuman": "Xazorasp tumani",
+    "parent_id": 12
+  },
+  {
+    "id": 153,
+    "tuman": "Tuproqqal’a tumani",
+    "parent_id": 12
+  },
+  {
+    "id": 154,
+    "tuman": "Xonqa tumani",
+    "parent_id": 12
+  },
+  {
+    "id": 155,
+    "tuman": "Xiva tumani",
+    "parent_id": 12
+  },
+  {
+    "id": 156,
+    "tuman": "Shovot tumani",
+    "parent_id": 12
+  },
+  {
+    "id": 157,
+    "tuman": "Yangiariq tumani",
+    "parent_id": 12
+  },
+  {
+    "id": 158,
+    "tuman": "Yangibozor tumani",
+    "parent_id": 12
+  },
+  {
+    "id": 159,
+    "tuman": "Amudaryo tumani",
+    "parent_id": 13
+  },
+  {
+    "id": 160,
+    "tuman": "Beruniy tumani",
+    "parent_id": 13
+  },
+  {
+    "id": 161,
+    "tuman": "Bo‘zatov tumani",
+    "parent_id": 13
+  },
+  {
+    "id": 162,
+    "tuman": "Qorao‘zak tumani",
+    "parent_id": 13
+  },
+  {
+    "id": 163,
+    "tuman": "Kegeyli tumani",
+    "parent_id": 13
+  },
+  {
+    "id": 164,
+    "tuman": "Qo‘ng‘irot tumani",
+    "parent_id": 13
+  },
+  {
+    "id": 165,
+    "tuman": "Qanliko‘l tumani",
+    "parent_id": 13
+  },
+  {
+    "id": 166,
+    "tuman": "Mo‘ynoq tumani",
+    "parent_id": 13
+  },
+  {
+    "id": 167,
+    "tuman": "Nukus tumani",
+    "parent_id": 13
+  },
+  {
+    "id": 168,
+    "tuman": "Taxiatosh tumani",
+    "parent_id": 13
+  },
+  {
+    "id": 169,
+    "tuman": "Taxtako‘pir tumani",
+    "parent_id": 13
+  },
+  {
+    "id": 170,
+    "tuman": "To‘rtko‘l tumani",
+    "parent_id": 13
+  },
+  {
+    "id": 171,
+    "tuman": "Xo‘jayli tumani",
+    "parent_id": 13
+  },
+  {
+    "id": 172,
+    "tuman": "Chimboy tumani",
+    "parent_id": 13
+  },
+  {
+    "id": 173,
+    "tuman": "Shumanay tumani",
+    "parent_id": 13
+  },
+  {
+    "id": 174,
+    "tuman": "Ellikkala tumani",
+    "parent_id": 13
+  },
+  {
+    "id": 175,
+    "tuman": "Kattaqo‘rg‘on shahar",
+    "parent_id": 6
+  },
+  {
+    "id": 176,
+    "tuman": "Olmaliq shahar",
+    "parent_id": 10
+  },
+  {
+    "id": 177,
+    "tuman": "Bekobod shahar",
+    "parent_id": 10
+  },
+  {
+    "id": 178,
+    "tuman": "Yangi Namangan tumani",
+    "parent_id": 5
+  },
+  {
+    "id": 179,
+    "tuman": "Samarqand shahar",
+    "parent_id": 6
+  },
+  {
+    "id": 180,
+    "tuman": "Davlatobod tumani",
+    "parent_id": 5
+  },
+  {
+    "id": 181,
+    "tuman": "Nurafshon shahar",
+    "parent_id": 10
+  },
+  {
+    "id": 182,
+    "tuman": "Namangan shahar",
+    "parent_id": 5
+  },
+  {
+    "id": 183,
+    "tuman": "Yangixayot rayoni",
+    "parent_id": 9
+  },
+  {
+    "id": 184,
+    "tuman": "Guliston shahar",
+    "parent_id": 8
+  },
+  {
+    "id": 185,
+    "tuman": "Jizzax shahar",
+    "parent_id": 2
+  },
+  {
+    "id": 186,
+    "tuman": "Nukus shahar",
+    "parent_id": 13
+  },
+  {
+    "id": 187,
+    "tuman": "Farg‘ona shahar",
+    "parent_id": 11
+  },
+  {
+    "id": 188,
+    "tuman": "Qo‘qon shahar",
+    "parent_id": 11
+  },
+  {
+    "id": 189,
+    "tuman": "Quvasoy shahar",
+    "parent_id": 11
+  },
+  {
+    "id": 190,
+    "tuman": "Qarshi shahar",
+    "parent_id": 3
+  },
+  {
+    "id": 191,
+    "tuman": "Buxoro shahar",
+    "parent_id": 1
+  },
+  {
+    "id": 192,
+    "tuman": "Termiz shahar",
+    "parent_id": 7
+  },
+  {
+    "id": 193,
+    "tuman": "Shahrisabz shahar",
+    "parent_id": 3
+  },
+  {
+    "id": 194,
+    "tuman": "Yellikkala tumani",
+    "parent_id": 13
+  },
+  {
+    "id": 195,
+    "tuman": "Andijon shahar",
+    "parent_id": 0
+  },
+  {
+    "id": 196,
+    "tuman": "Angren shahar",
+    "parent_id": 10
+  },
+  {
+    "id": 197,
+    "tuman": "Chirchiq shahar",
+    "parent_id": 10
+  },
+  {
+    "id": 198,
+    "tuman": "Qiyichirchiq tumani",
+    "parent_id": 10
+  },
+  {
+    "id": 199,
+    "tuman": "Urganch shahar",
+    "parent_id": 12
+  },
+  {
+    "id": 200,
+    "tuman": "Tuproqqal'a tumani",
+    "parent_id": 12
+  },
+  {
+    "id": 201,
+    "tuman": "Zarafshon shahar",
+    "parent_id": 4
+  },
+  {
+    "id": 202,
+    "tuman": "Navoiy shahar",
+    "parent_id": 4
+  },
+  {
+    "id": 203,
+    "tuman": "Kogon shahar",
+    "parent_id": 1
+  },
+  {
+    "id": 204,
+    "tuman": "Uchkuduq shahar",
+    "parent_id": 4
+  },
+  {
+    "id": 205,
+    "tuman": "Marg‘ilon shahar",
+    "parent_id": 11
+  },
+  {
+    "id": 206,
+    "tuman": "Yangiyo‘l shahar",
+    "parent_id": 10
+  },
+  {
+    "id": 207,
+    "tuman": "Xonobod shahar",
+    "parent_id": 0
+  },
+  {
+    "id": 208,
+    "tuman": "Ohangaron shahar",
+    "parent_id": 10
+  },
+  {
+    "id": 209,
+    "tuman": "Xiva shahar",
+    "parent_id": 12
+  },
+  {
+    "id": 210,
+    "tuman": "Yangier shahar",
+    "parent_id": 8
+  },
+  {
+    "id": 211,
+    "tuman": "G‘ozg‘on shahar",
+    "parent_id": 4
+  },
+  {
+    "id": 212,
+    "tuman": "Shirin shahar",
+    "parent_id": 8
+  }
+]
